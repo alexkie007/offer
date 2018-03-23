@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5905e5ce-112f-4435-81c8-e60dd7892f55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/排序算法/冒泡排序.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/排序算法/基数排序.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/排序算法/堆排序.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/排序算法/希尔排序.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/排序算法/归并排序.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/排序算法/快速排序.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/排序算法/插入排序.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/排序算法/直接选择排序.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/排序算法/选择排序.py" afterPath="$PROJECT_DIR$/排序算法/选择排序.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/杂项/树的遍历.py" afterPath="$PROJECT_DIR$/杂项/树的遍历.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -148,41 +140,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="堆排序.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/排序算法/堆排序.py">
+      <file leaf-file-name="36. 二叉搜索树和双向链表.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Target Offer/36. 二叉搜索树和双向链表.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="420">
+              <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="归并排序.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/排序算法/归并排序.py">
+      <file leaf-file-name="59.1 滑动窗口的最大值.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Target Offer/59.1 滑动窗口的最大值.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="基数排序.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/排序算法/基数排序.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="40. 最小的K个数.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Target Offer/40. 最小的K个数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="150">
+              <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -212,7 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Target Offer/55.2  平衡二叉树.py" />
         <option value="$PROJECT_DIR$/Target Offer/56. 数组中只出现一次的数字.py" />
         <option value="$PROJECT_DIR$/Target Offer/53.2 0~n-1中缺失的数字.py" />
         <option value="$PROJECT_DIR$/Target Offer/53.3 数值中数值和下标相等的元素.py" />
@@ -263,6 +234,7 @@
         <option value="$PROJECT_DIR$/排序算法/堆排序.py" />
         <option value="$PROJECT_DIR$/排序算法/归并排序.py" />
         <option value="$PROJECT_DIR$/排序算法/基数排序.py" />
+        <option value="$PROJECT_DIR$/杂项/树的遍历.py" />
       </list>
     </option>
   </component>
@@ -306,7 +278,17 @@
             <path>
               <item name="Offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="Target Offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Offer" type="462c0819:PsiDirectoryNode" />
               <item name="排序算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="杂项" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -717,14 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/59.1 滑动窗口的最大值.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Target Offer/26. !!!树的子结构.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -814,14 +788,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/杂项/有序数组去重.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂项/树的遍历.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -925,14 +891,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/36. 二叉搜索树和双向链表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Target Offer/27. 二叉树的镜像.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1013,18 +971,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/排序算法/直接选择排序.py">
+    <entry file="file://$PROJECT_DIR$/杂项/树的遍历.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="600">
+          <caret line="76" column="22" lean-forward="true" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/排序算法/堆排序.py">
+    <entry file="file://$PROJECT_DIR$/排序算法/基数排序.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -1037,10 +995,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/排序算法/基数排序.py">
+    <entry file="file://$PROJECT_DIR$/排序算法/堆排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序算法/直接选择排序.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target Offer/36. 二叉搜索树和双向链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target Offer/59.1 滑动窗口的最大值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
           <folding />
         </state>
       </provider>
