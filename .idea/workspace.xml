@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5905e5ce-112f-4435-81c8-e60dd7892f55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Target Offer/37. 序列号二叉树.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Target Offer/48. 最长不含重复字符的子字符串.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Target Offer/63. 股票最大利润.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Target Offer/洗牌算法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Target Offer/47. 礼物的最大价值.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -153,7 +150,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="48. 最长不含重复字符的子字符串.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="48. 最长不含重复字符的子字符串.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Target Offer/48. 最长不含重复字符的子字符串.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -163,11 +160,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="62. 圆圈中最后剩下的数字.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Target Offer/62. 圆圈中最后剩下的数字.py">
+      <file leaf-file-name="47. 礼物的最大价值.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Target Offer/47. 礼物的最大价值.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-101">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -207,7 +204,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Target Offer/57.1 和为s的数字.py" />
         <option value="$PROJECT_DIR$/Target Offer/57.2 和为s的连续正数序列.py" />
         <option value="$PROJECT_DIR$/Target Offer/58.2 左旋转字符串.py" />
         <option value="$PROJECT_DIR$/Target Offer/58.1 翻转单词顺序.py" />
@@ -258,6 +254,7 @@
         <option value="$PROJECT_DIR$/Target Offer/63. 股票最大利润.py" />
         <option value="$PROJECT_DIR$/Target Offer/37. 序列号二叉树.py" />
         <option value="$PROJECT_DIR$/Target Offer/48. 最长不含重复字符的子字符串.py" />
+        <option value="$PROJECT_DIR$/Target Offer/47. 礼物的最大价值.py" />
       </list>
     </option>
   </component>
@@ -486,13 +483,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="34" y="114" width="1600" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.4948652" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.50513476" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3746803" sideWeight="0.49037227" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.342711" sideWeight="0.49574015" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26086956" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26086956" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22528884" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -646,14 +644,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer/10. 矩阵中的路径回溯法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer/11.  机器人的运动范围.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -1050,6 +1040,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="19" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target Offer/47. 礼物的最大价值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           <folding />
         </state>
       </provider>
