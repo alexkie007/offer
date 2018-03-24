@@ -10,10 +10,34 @@ class Solution:
         if number < 0:
             return 0
 
-        return self.getTranslationCount(str(number))
+        return self.getTranslationCountCore(str(number))
 
     def getTranslationCountCore(self, number):
         length = len(number)
-        counts = []
-        count = 0
-        for i in range(0,length,-1):
+        counts = [0] * length
+
+        # 从后往前递归查找
+        for i in range(length-1, -1, -1):
+            if i < length-1:
+                count = counts[i+1]
+            else:
+                count = 1
+
+            # 两位数可以合并
+            if i < length -1:
+                digit1 = int(number[i])
+                digit2 = int(number[i+1])
+                combine = digit1 * 10 + digit2
+
+                if combine >= 10 and  combine <= 25:
+                    if i < length -2:
+                        count += counts[i+2]
+                    else:
+                        count += 1
+
+            counts[i] = count
+
+        return counts[0]
+
+s= Solution()
+print(s.getTranslationCount(12258))
