@@ -9,7 +9,6 @@ class Solution:
         if s is None or len(s) ==0:
             return res
         d= {}
-        tmp = 0
         start = 0
         for i in range(len(s)):
             if s[i] in d and d[s[i]] >= start:
@@ -18,3 +17,6 @@ class Solution:
             d[s[i]] = i
             res = max(res,tmp)
         return res
+
+s = Solution()
+print(s.longestSubstringWithoutDunplcation('abcabcdb'))

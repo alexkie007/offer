@@ -29,9 +29,30 @@ from collections import Counter
 class Solution:
     # 这里要特别注意~找到任意重复的一个值并赋值到duplication[0]
     # 函数返回True/False
-    def duplicate(self, numbers, duplication):
+    def duplicate(self, numbers):
         count = Counter(numbers).most_common()[0][0]
         if count >1:
             return "true, %s"%( count)
         else:
             return False
+
+    def duplicateNums(self, numbers):
+        if numbers == None or len(numbers) < 1:
+            return False
+        for i in numbers:
+            if i < 0 or i >len(numbers) -1:
+                return False
+        duplicate = []
+        for i in range(len(numbers)):
+            while i != numbers[i]:
+                if numbers[i] == numbers[numbers[i]]:
+                    duplicate.append(numbers[i])
+                    break
+                temp = numbers[i]
+                numbers[i] = numbers[temp]
+                numbers[temp] = temp
+        return duplicate
+
+s = Solution()
+print(s.duplicateNums([2,3,1,0,2,5,3]))
+

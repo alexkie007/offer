@@ -14,6 +14,12 @@ class Solution:
                 sum = array[i]
             else:
                 sum += array[i]
-
+            maxSum = max(sum, maxSum)
 
         return maxSum
+
+
+a = list(input().split())
+a = [int(x) for x in a]
+s = Solution()
+print(s.FindGreatestSumOfSubArray(a))
