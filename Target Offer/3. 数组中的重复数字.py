@@ -55,4 +55,5 @@ class Solution:
 
 s = Solution()
 print(s.duplicateNums([2,3,1,0,2,5,3]))
+print(s.duplicateNums([2,3,2,3,0,1]))
 
