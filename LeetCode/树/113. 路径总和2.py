@@ -30,17 +30,17 @@ class Solution(object):
             return []
         if root.val == sum and root.left is None and root.right is None:
             return [[root.val]]
-        tmp = self.pathSum(root.left, sum-root.val) +self.pathSum(root.right, sum-root.val)
+        tmp = self.pathSum(root.left, sum-root.val) + self.pathSum(root.right, sum-root.val)
         return [[root.val]+i for i in tmp]
 
     def pathSum2(self, root, sum):
         if root is None:
             return []
         res =[]
-        self.pathSumCore(root,sum,[],res)
+        self.pathSumCore(root, sum, [], res)
         return res
-    def pathSumCore(self, root, sum, ls, res):
 
+    def pathSumCore(self, root, sum, ls, res):
         if root.val == sum and root.left is None and root.right is None:
             ls.append(sum)
             res.append(ls)

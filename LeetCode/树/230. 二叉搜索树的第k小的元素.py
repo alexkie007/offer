@@ -21,3 +21,20 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
+        res = self.inOrder(root)
+        return res[k-1]
+
+    def inOrder(self, root):
+        res = []
+        if root is None:
+            return []
+        left  = self.inOrder(root.left)
+        res.append(root.val)
+        right = self.inOrder(root.right)
+        return left + res + right
+
+a = TreeNode(1)
+b = TreeNode(2)
+a.right = b
+s = Solution()
+print(s.kthSmallest(a,2))

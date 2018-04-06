@@ -22,6 +22,17 @@ class Solution:
             return False
         return True
 
+    def isMatch(self, s, t):
+        if not (s and t):
+            return s is t
+        return (s.val == t.val and
+                self.isMatch(s.left, t.left) and
+                self.isMatch(s.right, t.right))
+
+    def isSubTree2(self, s, t):
+        if self.isMatch(s, t): return True
+        if not s: return False
+        return self.isSubTree2(s.left, t) or self.isSubTree2(s.right, t)
 
 pRoot1 = TreeNode(8)
 pRoot2 = TreeNode(8)
@@ -44,4 +55,4 @@ pRoot8.left = pRoot9
 pRoot8.right = pRoot10
 
 S = Solution()
-print(S.isSubTree(pRoot1, pRoot8))
+print(S.isSubTree2(pRoot1, pRoot8))
