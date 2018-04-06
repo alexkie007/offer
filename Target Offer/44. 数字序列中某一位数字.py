@@ -38,7 +38,7 @@ class Solution:
         indexFromRight = digits - index %digits
 
         for i in range(1, indexFromRight):
-            number /= 10
+            number //= 10
         return number %10
 
 s = Solution()
