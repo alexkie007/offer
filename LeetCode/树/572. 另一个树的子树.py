@@ -47,11 +47,15 @@ class Solution(object):
         :type t: TreeNode
         :rtype: bool
         """
-        if s and t:
-            if s.val == t.val:
-                return self.isSubtree(s.left, t.left) or self.isSubtree(s.right, t.right)
-            else:
-                return self.isSubtree(s.left, t) or self.isSubtree(s.right, t)
-        if not s and t:
+        if not s:
             return False
-        return True
+        if self.check(s, t):
+            return True
+        return self.isSubtree(s.left, t) or self.isSubtree(s.right, t)
+
+    def check(self, s, t):
+        if s is None and t is None:
+            return True
+        if s is None or t is None:
+            return False
+        return s.val == t.val and self.check(s.left, t.left) and self.check(s.right, t.right)

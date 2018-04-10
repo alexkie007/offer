@@ -32,12 +32,12 @@
 
 class Solution:
     def longestUnivaluePath(self, root):
-        if root is None:
-            return 0
-        sub = max(self.longestUnivaluePath(root.left), self.longestUnivaluePath(root.right))
-        return max(sub, self.helper(root.left, root.val), self.helper(root.right, root.val))
-
-    def helper(self, root, parent):
-        if root is None or root.val != parent:
-            return 0
-        return 1 + max(self.helper(root.left, root.val), self.helper(root.right, root.val))
+        self.longest = 0
+        def traverse(node, val):
+            if not node:
+                return 0
+            left, right = traverse(node.left, node.val), traverse(node.right, node.val)
+            self.longest = max(self.longest, left+right)
+            return 1 + max(left, right) if node.val == val else 0
+        traverse(root,None)
+        return self.longest
