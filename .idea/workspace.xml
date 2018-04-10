@@ -2,41 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5905e5ce-112f-4435-81c8-e60dd7892f55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/动态规划/121. 买卖股票最佳时机.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/动态规划/122. 买卖股票的最佳时机2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/动态规划/123. 买卖股票的最佳时机3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/动态规划/139. 单词拆分.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/动态规划/140. 单词拆分2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/动态规划/300. 最长递增子序列.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/动态规划/32. 最长有效括号.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/动态规划/518. 零钱兑换2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/动态规划/53. 最大子序列之和.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/栈/42. 接雨水.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/设计/146. LRU.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LeetCode/设计/460. LFU.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/杂项/KMP.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/杂项/LRU.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/杂项/京东.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/杂项/字符串能否以单词组成.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/杂项/实现split算法.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/杂项/数组排序.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/杂项/旋转打印矩阵.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/杂项/股票买卖.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/杂项/链表排序.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划/1. 斐波那契数列.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划/2. 成熟母牛.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划/3. 矩阵的最小路径和.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划/4. 换钱的最小货币数.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划/5. 换钱的方法数.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划/6. 最长递增子序列.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划/7. 最长公共子序列.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/杂项/111.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LeetCode/动态规划/188. 买卖股票最佳时机.py" afterPath="$PROJECT_DIR$/LeetCode/动态规划/188. 买卖股票最佳时机4.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/111.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2. 单例模式.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/33.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/8. 二叉树的下一个节点.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeetCode/数组/440. 字典序中第k个数字.py" afterPath="$PROJECT_DIR$/LeetCode/数组/440. 字典序中第k个数字.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeetCode/树/572. 另一个树的子树.py" afterPath="$PROJECT_DIR$/LeetCode/树/572. 另一个树的子树.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeetCode/树/687. 最长相同值路径.py" afterPath="$PROJECT_DIR$/LeetCode/树/687. 最长相同值路径.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Target Offer/10.1 斐波那契数列.py" afterPath="$PROJECT_DIR$/Target Offer/10.1 斐波那契数列.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -165,11 +135,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="链表排序.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="链表排序.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/杂项/链表排序.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
+            <state relative-caret-position="525">
               <caret line="35" column="41" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="35" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1111.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/杂项/1111.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -496,9 +476,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.50513476" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36956522" sideWeight="0.49037227" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31841433" sideWeight="0.49574015" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31841433" sideWeight="0.49574015" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32352942" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32352942" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19808307" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -635,19 +615,9 @@
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/33.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Target Offer/48. 最长不含重复字符的子字符串.py</url>
           <line>13</line>
           <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/杂项/1111.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Target Offer/18.2 删除链表中重复节点.py</url>
@@ -781,21 +751,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/树/124. 二叉树中的最大路径和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="39" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/树/112. 路径总和.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="40" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/数组/440. 字典序中第k个数字.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1152,14 +1107,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂项/1111.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/杂项/随机概率生成数字.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
@@ -1176,10 +1123,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/33.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/杂项/链表排序.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="525">
           <caret line="35" column="41" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="35" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/杂项/1111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
           <folding />
         </state>
       </provider>
