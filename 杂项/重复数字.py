@@ -47,7 +47,7 @@ class Solution:
         for i in nums:
             if nums[abs(i) - 1] < 0:
                 return abs(i)
-            nums[abs(i) - 1] = -nums[abs(i) - 1]
+            nums[abs(i) - 1] = - nums[abs(i) - 1]
 
 
 
@@ -55,3 +55,4 @@ class Solution:
 
 s=Solution()
 print(s.duplicateNums2([2,3,5,4,2,6,2]))
+print(s.duplicateNums4([2,3,5,4,2,6,2]))

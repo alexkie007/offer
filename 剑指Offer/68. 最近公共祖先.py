@@ -18,6 +18,30 @@ class Solution:
             return root
         return left if left is not None else right
 
+    def lca1(self, root, n1, n2):
+        if root is None or root == n1 or n2 == root:
+            return root
+        res = 1
+        left = self.lcaCore(root.left, n1, n2,res)
+        right = self.lcaCore(root.right, n1, n2,res)
+        if left is not None and right is not None:
+            return root
+        if res == 1:
+            return None
+        return left if left is not None else right
+
+    def lcaCore(self, root, n1, n2,res):
+        res += 1
+        if root is None or root == n1 or n2 == root:
+            return root
+        left = self.lcaCore(root.left, n1, n2,res)
+        right = self.lcaCore(root.right, n1, n2,res)
+        if left is not None and right is not None:
+            return root
+        if res == 1:
+            return None
+        return left if left is not None else right
+
     def lca2(self, root, n1, n2):
         if root is None or root == n1 or n2 == root:
             return root
@@ -59,9 +83,16 @@ class Solution:
         return res
 
 s = Solution()
+a = TreeNode(1)
+b = TreeNode(2)
+c = TreeNode(3)
+d = TreeNode(4)
+e = TreeNode(5)
+a.left = b
+a.right = c
+b.left = d
 
-
-print()
+print(s.lca1(a, d, c).val)
 
 
 

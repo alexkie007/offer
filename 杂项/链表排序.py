@@ -5,15 +5,11 @@ class LinkNode:
 
 
 class Solution:
-    def insertSort(self, Head):
-        pass
-    def selectSort(self, Head):
-        return Head
 
     def quickSort(self, head):
         if not head or not head.next:
             return head
-        self.quickSortCore(head,None)
+        self.quickSortCore(head, None)
         return head
 
     def partion(self, start, end):

@@ -56,7 +56,7 @@ class LRUCache(object):
             if self.remain > 0:
                 self.remain -=1
             else:
-                self.dict.popitem(last = False)
+                self.dict.popitem(last=False)
         self.dict[key] = value
 cache = LRUCache(3)
 cache.put(1,1)

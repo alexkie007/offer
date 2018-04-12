@@ -23,15 +23,15 @@ class Solution:
         # 从左往右
         for i in range(start, endY + 1):
             ret.append(matrix[start][i])
-            # 从上往下
+            # 从上往下 至少存在两行
         if start < endX:
             for i in range(start + 1, endX + 1):
                 ret.append(matrix[i][endY])
-                # 从右往左
+        # 从右往左 至少存在两列
         if start < endX and start < endY:
             for i in range(endY - 1, start - 1, -1):
                 ret.append(matrix[endX][i])
-                # 从下往上
+        # 从下往上 至少三行两列
         if start < endY and start < endX - 1:
             for i in range(endX - 1, start, -1):
                 ret.append(matrix[i][start])

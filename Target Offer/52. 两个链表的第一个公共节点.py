@@ -36,14 +36,13 @@ class Solution:
         while node2:
             stack2.append(node2)
             node2 = node2.next
-        while stack1 or stack2:
+        while stack1 and stack2:
             top1 = stack1.pop()
             top2 = stack2.pop()
             if top1 == top2:
                 first = top1
             else:
                 continue
-
         return first
 
 

@@ -23,11 +23,12 @@ class Solution:
         while start < end:
             while func(array[start]):
                 start += 1
-            while not func(array[start]):
+            while not func(array[end]):
                 end -= 1
             if start < end:
                 array[start], array[end] = array[end], array[start]
         return array
+
 
 a = [1,2,3,4,5,6]
 s = Solution()

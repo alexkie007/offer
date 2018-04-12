@@ -16,8 +16,12 @@ class Solution:
             temp = self.Permutation(''.join(charList[:i])+ ''.join(charList[i+1:]))
             for j in temp:
                 result.append(charList[i]+j)
+
         return result
 
 ss = 'acb'
 S = Solution()
-print(S.Permutation(ss))
+a = S.Permutation(ss)
+a = ",".join(a)
+import sys
+sys.stdout.write(a)
