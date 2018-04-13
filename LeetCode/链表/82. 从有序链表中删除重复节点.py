@@ -17,7 +17,7 @@ class Solution:
         else:
             temp = self.deleteDuplicates(head.next.next)
             if temp is not None and head.val == temp.val:
-                head = None
+                head = temp.next
             else:
                 head = temp
         return head
