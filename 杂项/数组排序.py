@@ -98,6 +98,3 @@ class Solution:
             if max !=i:
                 nums[max], nums[i] = nums[i], nums[max]
                 self.adjustHeap(nums,max,size)
-
-
-

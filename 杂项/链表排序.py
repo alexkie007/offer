@@ -31,9 +31,6 @@ class Solution:
         self.quickSortCore(start, mid)
         self.quickSortCore(mid.next, end)
 
-    def bubbleSort(self, Head):
-
-        return Head
 
     def mergetSort(self, head):
         if not head or not head.next:

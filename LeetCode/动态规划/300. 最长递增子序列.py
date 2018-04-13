@@ -8,7 +8,6 @@
 
 你的算法的时间复杂度应该在 O(n2) 之内。
 
-进阶: 你能将算法的时间复杂度降低到 O(n log n) 吗?
 """
 class Solution(object):
     def lengthOfLIS(self, nums):
