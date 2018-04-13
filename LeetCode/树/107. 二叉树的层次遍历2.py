@@ -47,6 +47,5 @@ class Solution(object):
                 if node.right: nextStack.append(node.right)
             curStack = nextStack
             res.insert(0, list)
-
         return res
 

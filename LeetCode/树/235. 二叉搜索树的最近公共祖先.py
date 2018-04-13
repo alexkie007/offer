@@ -33,7 +33,6 @@ class Solution(object):
             return root
         elif p.val > root.val and q.val < root.val:
             return root
-
         elif p.val < root.val and q.val <root.val:
             return self.lowestCommonAncestor(root.left, p, q)
         else:

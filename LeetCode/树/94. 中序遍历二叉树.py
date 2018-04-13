@@ -38,5 +38,3 @@ class Solution(object):
             res.append(node.val)
             node = node.right
         return res
-
-        return left + list + right
