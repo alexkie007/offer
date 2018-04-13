@@ -9,8 +9,14 @@ class Solution:
         self.nums = []
 
     def Insert(self, num):
-        self.nums.append(num)
-        self.nums.sort()
+        if len(self.nums) ==0:
+            self.nums.append(num)
+        else:
+            i = len(self.nums)-1
+            while num >self.nums[i]:
+                i -=1
+            self.nums.insert(i+1,num)
+
         # write code here
 
     def GetMedian(self):

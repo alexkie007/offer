@@ -91,8 +91,9 @@ e = TreeNode(5)
 a.left = b
 a.right = c
 b.left = d
+b.right =e
 
-print(s.lca1(a, d, c).val)
+print(s.lca1(a, d, e).val)
 
 
 

@@ -15,6 +15,7 @@ class Solution:
                 if numbers[i] == numbers[numbers[i]]:
                     duplicate.append(numbers[i])
                     break
+                # numbers[i], numbers[numbers[i]] = numbers[numbers[i]], numbers[i]
                 temp = numbers[i]
                 numbers[i] = numbers[temp]
                 numbers[temp] = temp
@@ -54,5 +55,5 @@ class Solution:
 
 
 s=Solution()
-print(s.duplicateNums2([2,3,5,4,2,6,2]))
+print(s.duplicateNums([2,3,5,4,2,6,2]))
 print(s.duplicateNums4([2,3,5,4,2,6,2]))

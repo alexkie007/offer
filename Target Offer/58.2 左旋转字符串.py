@@ -4,7 +4,13 @@
 例如，
 字符序列S=”abcXYZdef”,要求输出循环左移3位后的结果，即“XYZdefabc”。是不是很简单？OK，搞定它！
 '''
-
+"""
+解题思路：
+将字符串分为两部分
+如题所述，前3位为一组，之后的为一组
+分别将两部分翻转 cba  fedZYX
+最后在将它和起来翻转，就是 XYZdefabc
+"""
 class Solution:
     def LeftRotateString(self, s, n):
 
