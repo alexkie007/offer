@@ -70,7 +70,7 @@ class Solution:
         while gap >0:
             for i in range(gap, length):
                 while i >= gap and nums[i-gap]>nums[i]:
-                    nums[i], nums[j-gap] = nums[i -gap] ,nums[i]
+                    nums[i], nums[i-gap] = nums[i -gap] ,nums[i]
                     i -= gap
             gap = round(gap/2)
         return nums

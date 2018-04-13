@@ -13,7 +13,6 @@ class Solution:
             numbers = self.countOfIntegers(digits)
             if index < numbers *digits:
                 return self.digitAtIndexCore(index,digits)
-
             index -= digits*numbers
             digits +=1
 

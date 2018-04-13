@@ -22,13 +22,11 @@ class Solution:
                 count = counts[i+1]
             else:
                 count = 1
-
             # 两位数可以合并
             if i < length -1:
                 digit1 = int(number[i])
                 digit2 = int(number[i+1])
                 combine = digit1 * 10 + digit2
-
                 if combine >= 10 and  combine <= 25:
                     if i < length -2:
                         count += counts[i+2]
