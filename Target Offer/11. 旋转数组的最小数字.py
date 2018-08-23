@@ -11,24 +11,23 @@ class Solution:
         if len(rotateArray) == 0:
             return 0
         start = 0
-        end = len(rotateArray) -1
+        end = len(rotateArray) - 1
         while start < end:
-            if end - start == 1 :
+            if end - start == 1:
                 return rotateArray[start]
             if rotateArray[start] > rotateArray[end]:
-                start +=1
+                start += 1
             else:
-                end -=1
-
+                end -= 1
 
     def minNumberInRotateArray2(self, rotateArray):
         if len(rotateArray) == 0:
             return 0
         start = 0
-        end = len(rotateArray) -1
-        while end - start >1 :
-            mid =(start + end)//2
-            if rotateArray[start] ==rotateArray[mid] == rotateArray[end]:
+        end = len(rotateArray) - 1
+        while end - start > 1:
+            mid = (start + end) // 2
+            if rotateArray[start] == rotateArray[mid] == rotateArray[end]:
                 return rotateArray[mid]
             if rotateArray[start] <= rotateArray[mid]:
                 start = mid
