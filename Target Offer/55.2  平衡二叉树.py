@@ -7,22 +7,20 @@ class Solution:
     def IsBalanced_Solution1(self, pRoot):
         if pRoot == None:
             return pRoot
-        if pRoot and pRoot.left == None and pRoot.right == None:
+        if pRoot and pRoot.left is None and pRoot.right is None:
             return True
         left = self.TreeDepth(pRoot.left)
         right = self.TreeDepth(pRoot.right)
-        if abs(left-right) >1:
+        if abs(left - right) > 1:
             return False
-        return self.IsBalanced_Solution1(pRoot.left) and  self.IsBalanced_Solution1(pRoot.right)
-
-
+        return self.IsBalanced_Solution1(pRoot.left) and self.IsBalanced_Solution1(pRoot.right)
 
     def TreeDepth(self, pRoot):
-        if pRoot and pRoot.left == None and pRoot.right == None:
+        if pRoot and pRoot.left is None and pRoot.right is None:
             return 1
         left = self.TreeDepth(pRoot.left)
         right = self.TreeDepth(pRoot.right)
-        return 1+ max(left,right)
+        return 1 + max(left, right)
 
 
 class Solution2:

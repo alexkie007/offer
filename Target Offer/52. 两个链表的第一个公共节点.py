@@ -2,6 +2,7 @@
 输入两个链表，找出它们的第一个公共节点
 '''
 
+
 class ListNode:
     def __init__(self, val):
         self.val = val
@@ -62,18 +63,13 @@ node2.next = node3
 node3.next = node4
 node4.next = node5
 
-
 node6.next = node7
 node7.next = node8
 node8.next = node9
 node9.next = node10
-
 
 s = Solution()
 # while node1:
 #     print(node1.val)
 #     node1= node1.next
 print(s.findfirstcommonnode2(node1, node6).val)
-
-
-

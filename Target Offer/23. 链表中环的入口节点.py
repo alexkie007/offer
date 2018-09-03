@@ -3,13 +3,14 @@
 
 '''
 
+
 class ListNode:
     def __init__(self, x):
         self.val = x
         self.next = None
 
-class Solution:
 
+class Solution:
 
     def EntryNodeOfLoop(self, pHead):
         # 先看有没有回路
@@ -19,20 +20,19 @@ class Solution:
         # 找到环的长度
         NodeLoop = 1
         pFast = meetingNode.next
-        while  pFast != meetingNode:
-            NodeLoop +=1
+        while pFast != meetingNode:
+            NodeLoop += 1
             pFast = pFast.next
         # 前面的先走n步 碰到后面的即是入口
         pFast = pHead
-        for i in  range(NodeLoop):
+        for i in range(NodeLoop):
             pFast = pFast.next
         pSlow = pHead
-        while pSlow !=pFast:
-            pSlow= pSlow.next
-            pFast=pFast.next
+        while pSlow != pFast:
+            pSlow = pSlow.next
+            pFast = pFast.next
 
         return pFast
-
 
     def Loop(self, pHead):
         if not pHead:
@@ -51,7 +51,3 @@ class Solution:
             if pFast:
                 pFast = pFast.next
         return None
-
-
-
-

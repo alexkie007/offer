@@ -3,6 +3,7 @@
 求所有子数组的和的最地址。 要求时间复杂度为O(n).
 '''
 
+
 class Solution:
     def FindGreatestSumOfSubArray(self, array):
         if array == None:

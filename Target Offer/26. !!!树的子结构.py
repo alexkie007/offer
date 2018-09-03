@@ -1,6 +1,8 @@
 '''
 输入两棵二叉树A，B，判断B是不是A的子结构。（ps：我们约定空树不是任意一个树的子结构）
 '''
+
+
 class TreeNode:
     def __init__(self, x):
         self.val = x
@@ -10,15 +12,17 @@ class TreeNode:
 
 class Solution:
     def isSubTree(self, pRoot1, pRoot2):
-        if pRoot2 == None:
+        if pRoot2 is None:
             return True
-        if pRoot1 == None:
+        if pRoot1 is None:
             return False
-        return pRoot1.val == pRoot2.val and self.isSubTree(pRoot1.left, pRoot2.left) and self.isSubTree(pRoot1.right, pRoot2.right)
+        return pRoot1.val == pRoot2.val and self.isSubTree(pRoot1.left, pRoot2.left) and self.isSubTree(pRoot1.right,
+                                                                                                        pRoot2.right)
 
     def HasSubtree(self, pRoot1, pRoot2):
         if pRoot1 and pRoot2:
-                return self.isSubTree(pRoot1,pRoot2) or self.HasSubtree(pRoot1.left, pRoot2) or self.HasSubtree(pRoot1.right,pRoot2)
+            return self.isSubTree(pRoot1, pRoot2) or self.HasSubtree(pRoot1.left, pRoot2) or self.HasSubtree(
+                pRoot1.right, pRoot2)
         return False
 
 
@@ -44,8 +48,3 @@ pRoot8.right = pRoot10
 
 S = Solution()
 print(S.HasSubtree(pRoot1, pRoot8))
-
-
-
-
-

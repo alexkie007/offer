@@ -16,7 +16,7 @@ a d e e
 # -*- coding:utf-8 -*-
 class Solution:
     def hasPath(self, matrix, rows, cols, path):
-        if matrix == None or rows < 1 or cols < 1 or path == None:
+        if matrix is None or rows < 1 or cols < 1 or path is None:
             return False
         visited = [0] * (rows * cols)
         pathLength = 0
@@ -31,7 +31,7 @@ class Solution:
             return True
         hasPath = False
         if row >= 0 and col >= 0 and row < rows and col < cols and matrix[row * cols + col] == path[pathLength] and not \
-        visited[row * cols + col]:
+                visited[row * cols + col]:
             pathLength += 1
             visited[row * cols + col] = True
             hasPath = self.hasPathCore(matrix, rows, cols, row - 1, col, path, pathLength, visited) or \
@@ -42,7 +42,5 @@ class Solution:
                 pathLength -= 1
                 visited[row * cols + col] = False
         return hasPath
-
-
 
         # write code here

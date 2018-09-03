@@ -7,6 +7,8 @@
 先找到左右子树的分界点
 然后递归左右子树
 """
+
+
 # -*- coding:utf-8 -*-
 class Solution:
     def VerifySquenceOfBST(self, sequence):
@@ -16,19 +18,18 @@ class Solution:
             return False
         end = sequence[-1]
         mid = 0
-        for j in range(length-1):
+        for j in range(length - 1):
             mid = j
             if sequence[j] > end:
                 break
 
-
-        for j in range(mid+1,length-1):
+        for j in range(mid + 1, length - 1):
             if sequence[j] < end:
                 return False
         left = True
-        right =True
-        if mid >0:
+        right = True
+        if mid > 0:
             left = self.VerifySquenceOfBST(sequence[:mid])
-        if mid < length -1:
-            right = self.VerifySquenceOfBST(sequence[mid:length-1])
-        return  left and  right
+        if mid < length - 1:
+            right = self.VerifySquenceOfBST(sequence[mid:length - 1])
+        return left and right

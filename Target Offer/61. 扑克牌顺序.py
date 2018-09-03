@@ -9,21 +9,22 @@ LL决定去买体育彩票啦。
 为了方便起见,你可以认为大小王是0。
 '''
 
+
 class Solution:
     def IsContinuous(self, numbers):
         if len(numbers) == 0:
             return False
         numbers.sort()
         numberOfZero = numbers.count(0)
-        for i in range(len(numbers)-1):
-            if numbers[i] !=0:
-                if numbers[i+1] == numbers[i]: return False
-                numberOfZero = numberOfZero - (numbers[i+1] - numbers[i] ) +1
-                if numberOfZero <0:
+        for i in range(len(numbers) - 1):
+            if numbers[i] != 0:
+                if numbers[i + 1] == numbers[i]: return False
+                numberOfZero = numberOfZero - (numbers[i + 1] - numbers[i]) + 1
+                if numberOfZero < 0:
                     return False
         return True
 
 
 s = Solution()
-a = [1,3,2,6,4]
+a = [1, 3, 2, 6, 4]
 print(s.IsContinuous(a))

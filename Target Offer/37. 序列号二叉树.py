@@ -2,6 +2,7 @@
 请实现两个函数，分别用来序列化和反序列化二叉树。这里没有规定序列化的方式。
 '''
 
+
 class TreeNode:
     def __init__(self, x):
         self.val = x
@@ -17,7 +18,7 @@ class Solution:
         stack = []
         while root or stack:
             while root:
-                serializeStr += root.val +','
+                serializeStr += root.val + ','
                 stack.append(root)
                 root = root.left
             serializeStr += '#'

@@ -2,6 +2,7 @@
 定义栈的数据结构，请在该类型中实现一个能够得到栈最小元素的min函数。
 '''
 
+
 # -*- coding:utf-8 -*-
 class Solution:
 
@@ -19,21 +20,24 @@ class Solution:
             self.stack2.append(self.stack2[-1])
 
         # write code here
+
     def pop(self):
-        if self.stack1 ==None:
+        if self.stack1 == None:
             return None
         self.stack2.pop()
         return self.stack1.pop()
 
         # write code here
+
     def top(self):
         return self.stack1[-1]
 
-
         # write code here
+
     def min(self):
         return self.stack2[-1]
         # write code here
+
 
 s = Solution()
 s.push(3)

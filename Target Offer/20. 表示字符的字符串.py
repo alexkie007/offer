@@ -4,6 +4,7 @@
  数值为0或者字符串不是一个合法的数值则返回0
  '''
 
+
 class Solution:
     def StrToInt(self, s):
         try:

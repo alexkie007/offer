@@ -10,13 +10,13 @@ class Solution:
     def FindIndexNumber(self, numbers):
         length = len(numbers)
         start = 0
-        end = length -1
+        end = length - 1
         while start <= end:
-            mid = int((end-start)/2)
+            mid = int((end - start) / 2)
             if numbers[mid] == mid:
-                return  mid
+                return mid
             elif numbers[mid] > mid:
-                end = mid-1
+                end = mid - 1
             else:
-                start = mid+1
+                start = mid + 1
         return -1

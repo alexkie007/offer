@@ -25,7 +25,7 @@ class TreeNode:
 class Solution:
     # 返回镜像树的根节点
     def Mirror(self, root):
-        if root == None:
+        if root is None:
             return root
         root.left, root.right = root.right, root.left
         self.Mirror(root.left)

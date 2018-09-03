@@ -3,6 +3,7 @@
 例如，输入排序数组{12,3,3,3,4,5}和数字3，由于3在这个数组中出现了4次，因此输出4。
 '''
 
+
 class Solution:
     def GetNumberOfK(self, data, k):
         return data.count(k)
@@ -44,7 +45,7 @@ class Solution1:
             mid = (s + e) / 2
             if data[mid] > k:
                 e = mid - 1
-            elif data[mid] <k:
+            elif data[mid] < k:
                 s = mid + 1
             else:
                 if is_left and mid != 0 and data[mid - 1] == k:
@@ -62,9 +63,10 @@ class Solution1:
             return 0
         return k_r - k_l + 1
 
+
 # write code here
 
 
-a = [1,2,3,3,3,4,5]
+a = [1, 2, 3, 3, 3, 4, 5]
 s = Solution()
-print(s.GetNumberOfK2(a,3))
+print(s.GetNumberOfK2(a, 3))

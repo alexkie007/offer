@@ -3,6 +3,7 @@
 请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。
 '''
 
+
 class Solution:
     # array 二维列表
     def Find(self, target, array):
@@ -11,12 +12,12 @@ class Solution:
         rows = len(array)
         columns = len(array[0])
         row = 0
-        column = columns -1
-        while row < rows and column >=0:
+        column = columns - 1
+        while row < rows and column >= 0:
             if array[row][column] == target:
                 return True
             elif array[row][column] > target:
-                column -=1
+                column -= 1
             else:
-                row +=1
+                row += 1
         return False

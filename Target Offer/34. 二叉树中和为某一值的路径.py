@@ -14,9 +14,9 @@ class TreeNode:
 class Solution:
     # 返回二维列表，内部每个列表表示找到的路径
     def FindPath(self, root, expectNumber):
-        if root == None or root.val >expectNumber:
+        if root is None or root.val > expectNumber:
             return []
-        if root.left == None and root.right == None:
+        if root.left is None and root.right is None:
             if expectNumber == root.val:
                 return [[root.val]]
             else:
@@ -25,5 +25,4 @@ class Solution:
         right = self.FindPath(root.right, expectNumber - root.val)
         a = left + right
 
-        return [[root.val]+x for x in a]
-
+        return [[root.val] + x for x in a]

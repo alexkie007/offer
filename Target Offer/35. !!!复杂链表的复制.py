@@ -21,7 +21,6 @@ class Solution:
         self.connectNode(pHead)
         return self.reConnectNode(pHead)
 
-
     def cloneNode(self, pHead):
         while pHead:
             Cloned = RandomListNode(0)
@@ -37,7 +36,6 @@ class Solution:
                 Cloned.random = pHead.random.next
             pHead = Cloned.next
 
-
     def reConnectNode(self, pHead):
         cloneHead = cloneNode = pHead.next
         pHead.next = cloneNode.next
@@ -48,6 +46,3 @@ class Solution:
             pHead.next = cloneHead.next
             pHead = pHead.next
         return cloneHead
-
-
-

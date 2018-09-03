@@ -5,7 +5,7 @@
 
 class Solution:
     def rectCover(self, number):
-        if number<2:
+        if number < 2:
             return number
         a, b, c = 1, 0, 0
         for i in range(number):

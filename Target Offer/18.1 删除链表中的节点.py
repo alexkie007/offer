@@ -1,11 +1,7 @@
-
-
-
 class ListNode:
     def __init__(self, x):
         self.val = x
         self.next = None
-
 
 
 class Solution:
@@ -15,12 +11,12 @@ class Solution:
             return
         if pNode == pHead:
             pHead = pHead.next
-        elif pNode.next !=None:
+        elif pNode.next != None:
             pNode.val = pNode.next.val
             pNode.next = pNode.next.next
         else:
-            Node =pHead
+            Node = pHead
             while Node.next != pNode:
                 Node = Node.next
-            Node.next =None
+            Node.next = None
         return pHead

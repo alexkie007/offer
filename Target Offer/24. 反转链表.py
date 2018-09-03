@@ -12,7 +12,7 @@ class ListNode:
 class Solution:
     # 返回ListNode
     def ReverseList(self, pHead):
-        if pHead ==None or pHead.next == None:
+        if pHead == None or pHead.next == None:
             return pHead
         last = None
         while pHead:

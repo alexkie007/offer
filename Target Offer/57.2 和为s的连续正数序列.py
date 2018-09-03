@@ -6,6 +6,7 @@
 Good Luck!
 '''
 
+
 class Solution:
     def FindContinuousSequence(self, tsum):
         if tsum < 3:
@@ -28,12 +29,12 @@ class Solution:
 
         return result
 
-
     def PrintContinuousSequence(self, small, big):
         res = []
         for i in range(small, big + 1):
             res.append(i)
         return res
 
-s= Solution()
+
+s = Solution()
 print(s.FindContinuousSequence(3))

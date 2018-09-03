@@ -12,14 +12,13 @@
 '''
 
 
-
 class Solution:
     def maxInWindows(self, num, size):
-        if len(num) ==0:
+        if len(num) == 0:
             return []
-        if size == 0 or len(num) <size:
+        if size == 0 or len(num) < size:
             return []
         res = []
-        for i in range(len(num)-size+1):
-            res.append(max(num[i:i+size]))
+        for i in range(len(num) - size + 1):
+            res.append(max(num[i:i + size]))
         return res

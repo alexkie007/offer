@@ -12,40 +12,41 @@
 对于3 5 类似
 """
 
+
 class Solution:
     def GetUglyNumber_Solution(self, index):
-        if index <=0:
+        if index <= 0:
             return 0
-        n =1
+        n = 1
         uglyNumber = [1] * index
-        index2, index3, index5 = 0,0,0
+        index2, index3, index5 = 0, 0, 0
 
         while n < index:
-            minVal = min(uglyNumber[index2]*2, uglyNumber[index3]*3, uglyNumber[index5]*5)
+            minVal = min(uglyNumber[index2] * 2, uglyNumber[index3] * 3, uglyNumber[index5] * 5)
             uglyNumber[n] = minVal
-            while uglyNumber[index2]*2<= uglyNumber[n]:
-                index2 +=1
-            while uglyNumber[index3]*3<= uglyNumber[n]:
-                index3 +=1
-            while uglyNumber[index5]*5<= uglyNumber[n]:
-                index5 +=1
-            n +=1
+            while uglyNumber[index2] * 2 <= uglyNumber[n]:
+                index2 += 1
+            while uglyNumber[index3] * 3 <= uglyNumber[n]:
+                index3 += 1
+            while uglyNumber[index5] * 5 <= uglyNumber[n]:
+                index5 += 1
+            n += 1
         return uglyNumber[-1]
 
     def isUgly(self, num):
-         while num % 2 == 0:
-             num /= 2
-         while num % 3 == 0:
+        while num % 2 == 0:
+            num /= 2
+        while num % 3 == 0:
             num /= 5
-         while num % 3 == 0:
+        while num % 3 == 0:
             num /= 5
-         return True if num==1 else False
+        return True if num == 1 else False
 
     def GetUglyNumber(self, index):
-        
-        number =0
+
+        number = 0
         found = 0
         while found < index:
-            number +=1
-            found += 1  if self.isUgly(number) else 0
-        return  number
+            number += 1
+            found += 1 if self.isUgly(number) else 0
+        return number

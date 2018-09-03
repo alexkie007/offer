@@ -4,18 +4,18 @@
 当从该字符流中读出前六个字符“google"时，第一个只出现一次的字符是"l"。
 '''
 
+
 class Solution:
     # 返回对应char
     def __init__(self):
         self.s = ''
 
-
     def FirstAppearingOnce(self):
-        res = list(filter(lambda c: self.s.count(c)==1,self.s))
-        return res[0] if res else  '#'
+        res = list(filter(lambda c: self.s.count(c) == 1, self.s))
+        return res[0] if res else '#'
 
     def Insert(self, char):
-        self.s +=char
+        self.s += char
 
 
 a = 'googlle'

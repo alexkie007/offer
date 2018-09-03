@@ -4,6 +4,7 @@
 由于数字2在数组中出现了5次，超过数组长度的一半，因此输出2。如果不存在则输出0。
 '''
 
+
 class Solution:
     def MoreThanHalfNum_Solution(self, numbers):
         dict = {}
@@ -17,6 +18,6 @@ class Solution:
                 return i
 
 
-a = [1,2,3,2,2,2,2,2,2,5,4,2,3,3,3]
+a = [1, 2, 3, 2, 2, 2, 2, 2, 2, 5, 4, 2, 3, 3, 3]
 s = Solution()
 print(s.MoreThanHalfNum_Solution(a))

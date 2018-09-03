@@ -19,13 +19,13 @@ class Solution:
         pNext = None
         if pNode.right != None:
             pRight = pNode.right
-            while pRight.left !=None:
+            while pRight.left != None:
                 pRight = pRight.left
             pNext = pRight
         elif pNode.next != None:
             pCurrent = pNode
             pParent = pNode.next
-            while pParent!=None and pCurrent == pParent.right:
+            while pParent != None and pCurrent == pParent.right:
                 pCurrent = pParent
                 pParent = pParent.next
             pNext = pParent

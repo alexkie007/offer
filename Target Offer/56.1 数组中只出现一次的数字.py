@@ -13,6 +13,8 @@
 
 最后遍历遍历一次，就可以找到两个只出现1次的数
 """
+
+
 class Solution:
     # 返回[a,b] 其中ab是出现一次的两个数字
     def FindNumsAppearOnce(self, array):
@@ -20,7 +22,7 @@ class Solution:
         result = []
         i = 0
         while i <= len(array) - 1:
-            if i == len(array)-1:
+            if i == len(array) - 1:
                 result.append(array[i])
                 break
             if array[i] == array[i + 1]:
@@ -36,19 +38,21 @@ class Solution:
         for i in array:
             tmp ^= i
         idx = 0
-        while (tmp &1)==0:
-            tmp >>=1
-            idx +=1
-        a = b =0
+        while (tmp & 1) == 0:
+            tmp >>= 1
+            idx += 1
+        a = b = 0
         for i in array:
             if self.isBit(i, idx):
-                a ^=i
+                a ^= i
             else:
-                b ^=i
+                b ^= i
         return [a, b]
 
-    def isBit(self,number, index):
+    def isBit(self, number, index):
         number >>= index
         return number & 1
+
+
 s = Solution()
-print(s.FindNumsAppearOnce([2,4,3,6,3,2,5,5]))
+print(s.FindNumsAppearOnce([2, 4, 3, 6, 3, 2, 5, 5]))

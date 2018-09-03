@@ -6,15 +6,17 @@
     [13,14,15,16]]
     则依次打印出数字1,2,3,4,8,12,16,15,14,13,9,5,6,7,11,10.
 '''
+
+
 class Solution:
     # matrix类型为二维列表，需要返回列表
     def printMatrix(self, matrix):
         rows = len(matrix)
         columns = len(matrix[0])
         start = 0
-        result =[]
+        result = []
         while rows > 2 * start and columns > 2 * start:
-            start +=1
+            start += 1
         return result
 
     def printCycle(self, matrix, rows, columns, start, ret):

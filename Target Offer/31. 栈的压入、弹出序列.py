@@ -18,7 +18,7 @@ class Solution:
             while len(stack) and stack[-1] == popV[0]:
                 stack.pop()
                 popV.pop(0)
-        if len(popV) ==0:
+        if len(popV) == 0:
             return True
         return False
-            # write code here
+        # write code here

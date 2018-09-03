@@ -8,6 +8,8 @@
 先用一个队列存储 中序遍历的所有节点，
 然后遍历队列，改变指针的方向
 """
+
+
 class TreeNode:
     def __init__(self, x):
         self.val = x
@@ -17,19 +19,18 @@ class TreeNode:
 
 class Solution:
     def Convert(self, pRootOfTree):
-         if pRootOfTree == None:
-             return pRootOfTree
-         self.arr = []
-         self.midTraversal(pRootOfTree)
-         for i,v in enumerate(self.arr[:-1]):
-             v.right = self.arr[i+1]
-             self.arr[i+1].left = v
+        if pRootOfTree is None:
+            return pRootOfTree
+        self.arr = []
+        self.midTraversal(pRootOfTree)
+        for i, v in enumerate(self.arr[:-1]):
+            v.right = self.arr[i + 1]
+            self.arr[i + 1].left = v
 
-         return self.arr[0]
-
+        return self.arr[0]
 
     def midTraversal(self, Node):
-        if Node == None:
+        if Node is None:
             return Node
         self.midTraversal(Node.left)
         self.arr.append(Node)

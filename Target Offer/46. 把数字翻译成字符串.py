@@ -5,6 +5,7 @@
 请编程实现一个函数，用来计算一个数组有多少种不同的翻译方法
 '''
 
+
 class Solution:
     def getTranslationCount(self, number):
         if number < 0:
@@ -17,19 +18,19 @@ class Solution:
         counts = [0] * length
 
         # 从后往前递归查找
-        for i in range(length-1, -1, -1):
-            if i < length-1:
-                count = counts[i+1]
+        for i in range(length - 1, -1, -1):
+            if i < length - 1:
+                count = counts[i + 1]
             else:
                 count = 1
             # 两位数可以合并
-            if i < length -1:
+            if i < length - 1:
                 digit1 = int(number[i])
-                digit2 = int(number[i+1])
+                digit2 = int(number[i + 1])
                 combine = digit1 * 10 + digit2
-                if combine >= 10 and  combine <= 25:
-                    if i < length -2:
-                        count += counts[i+2]
+                if combine >= 10 and combine <= 25:
+                    if i < length - 2:
+                        count += counts[i + 2]
                     else:
                         count += 1
 
@@ -37,5 +38,6 @@ class Solution:
 
         return counts[0]
 
-s= Solution()
+
+s = Solution()
 print(s.getTranslationCount(12258))

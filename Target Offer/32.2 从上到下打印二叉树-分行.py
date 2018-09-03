@@ -9,12 +9,13 @@ class TreeNode:
         self.left = None
         self.right = None
 
+
 class Solution:
     # 返回从上到下每个节点值列表，例：[1,2,3]
     def PrintFromTopToBottom(self, root):
         if not root:
             return []
-        result =[]
+        result = []
         curStack = [root]
         odd = True
         while curStack:
@@ -28,6 +29,7 @@ class Solution:
             result.append('\n')
             curStack = nextStack
         return result
+
 
 pNode1 = TreeNode(8)
 pNode2 = TreeNode(6)

@@ -17,26 +17,28 @@ class Solution:
         if n == 1:
             return 0
         else:
-            return (self.LastRemaining_Solution(n-1,m)+m) % n
+            return (self.LastRemaining_Solution(n - 1, m) + m) % n
 
     def LastRemaining_Solution2(self, n, m):
-        if n <1 or m <1:
+        if n < 1 or m < 1:
             return -1
         last = 0
-        for i in range(1,n+1):
-            last = (last+m) % i
+        for i in range(1, n + 1):
+            last = (last + m) % i
         return last
 
 
 s = Solution()
-print(s.LastRemaining_Solution2(4000,997))
+print(s.LastRemaining_Solution2(4000, 997))
+
+
 #
 def josephus(n, m):
-  if type(n) != type(1) or n <= 0:
-    raise Exception('n must be an integer(n > 0)')
-  if n == 1:
-    return 0
-  else:
-    return (josephus(n - 1, m) + m) % n
+    if type(n) != type(1) or n <= 0:
+        raise Exception('n must be an integer(n > 0)')
+    if n == 1:
+        return 0
+    else:
+        return (josephus(n - 1, m) + m) % n
 
 # print(josephus(4000,997))

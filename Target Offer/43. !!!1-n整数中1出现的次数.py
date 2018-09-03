@@ -29,13 +29,14 @@ ACMer希望你们帮帮他,并把问题更加普遍化,可以很快的求出任�
 为什么要加8呢？因为只有大于2的时候才会产生进位等价于（a/10+1）
 """
 
+
 class Solution:
     def NumberOf1Between1AndN_Solution(self, n):
         if n < 0:
             return 0
-        m =1
+        m = 1
         count = 0
-        while n //m >0:
-            count += (n //m % 10 ==1) * (n %m +1) +(n//m +8) //10 * m
-            m *=10
+        while n // m > 0:
+            count += (n // m % 10 == 1) * (n % m + 1) + (n // m + 8) // 10 * m
+            m *= 10
         return count

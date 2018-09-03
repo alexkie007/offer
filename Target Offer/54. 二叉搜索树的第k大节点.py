@@ -4,12 +4,12 @@
 '''
 
 
-
 class TreeNode:
     def __init__(self, x):
         self.val = x
         self.left = None
         self.right = None
+
 
 class Solution:
     # 返回对应节点TreeNode
@@ -17,7 +17,7 @@ class Solution:
     def KthNode(self, pRoot, k):
         self.res = []
         self.dfs(pRoot)
-        return self.res[k-1]  if 0<k<=len(self.res) else None
+        return self.res[k - 1] if 0 < k <= len(self.res) else None
 
     def dfs(self, root):
         if not root: return

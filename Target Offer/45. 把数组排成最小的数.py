@@ -3,18 +3,19 @@
 例如输入数组{3，32，321}，则打印出这三个数字能排成的最小数字为321323。
 '''
 
+
 class Solution:
     def PrintMinNumber(self, numbers):
         if numbers == None:
             return None
         numbers.sort()
-        while len(numbers)>1:
+        while len(numbers) > 1:
             numbers[0] = self.compare(numbers[0], numbers[1])
             numbers.remove(numbers[1])
         return numbers[0]
 
-    def compare(self,x,y):
-        s1 = str(x) +str(y)
+    def compare(self, x, y):
+        s1 = str(x) + str(y)
         s2 = str(y) + str(x)
 
         if s1 > s2:

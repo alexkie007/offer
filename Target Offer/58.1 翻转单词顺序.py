@@ -5,6 +5,8 @@
 正确的句子应该是“I am a student.”。Cat对一一的翻转这些单词顺序可不在行，
 你能帮助他么
 '''
+
+
 class Solution:
     def ReverseSentence(self, s):
         return ' '.join(s.split(' ')[::-1])

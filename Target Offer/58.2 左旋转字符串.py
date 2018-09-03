@@ -11,7 +11,8 @@
 分别将两部分翻转 cba  fedZYX
 最后在将它和起来翻转，就是 XYZdefabc
 """
+
+
 class Solution:
     def LeftRotateString(self, s, n):
-
-        return s[n:] +s[:n]
+        return s[n:] + s[:n]

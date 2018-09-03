@@ -6,8 +6,10 @@
 解题思路：
 加法是异或，进位是与<<1
 """
+
+
 class Solution:
     def Add(self, num1, num2):
         while num2:
-            num1 ,num2 = (num1 ^ num2)& 0xFFFFFFFF ,(num1 & num2 ) <<1 & 0xFFFFFFFF
-        return num1 if num1<=0x7FFFFFFF else ~(num1^0xFFFFFFFF)
+            num1, num2 = (num1 ^ num2) & 0xFFFFFFFF, (num1 & num2) << 1 & 0xFFFFFFFF
+        return num1 if num1 <= 0x7FFFFFFF else ~(num1 ^ 0xFFFFFFFF)

@@ -6,7 +6,7 @@
 
 
 class Solution:
-    def prin1ToMax(self,number, length, index):
+    def prin1ToMax(self, number, length, index):
         if index == length - 1:
             print(int(''.join(number)))
             return
@@ -14,14 +14,12 @@ class Solution:
             number[index + 1] = str(i)
             self.prin1ToMax(number, length, index + 1)
 
-    def print1ToMaxOfDigits(self,n):
+    def print1ToMaxOfDigits(self, n):
         if n <= 0: return
         number = ['0'] * n
         for i in range(10):
             number[0] = str(i)
             self.prin1ToMax(number, n, 0)
-
-
 
 
 s = Solution()

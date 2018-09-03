@@ -1,4 +1,3 @@
-
 """
 
 解题思路：
@@ -13,13 +12,14 @@
 5、将当前元素压入栈
 """
 
+
 class Solution:
     def findFirstBig(self, numbers):
         stack = []
-        res =[-1] * len(numbers)
+        res = [-1] * len(numbers)
         stack.append(0)
-        for i in range(1,len(numbers)):
-            while len(stack)>0 and numbers[i] > numbers[stack[-1]]:
+        for i in range(1, len(numbers)):
+            while len(stack) > 0 and numbers[i] > numbers[stack[-1]]:
                 res[stack[-1]] = numbers[i]
                 stack.pop()
             stack.append(i)
@@ -27,15 +27,16 @@ class Solution:
 
     def findFirstSmall(self, numbers):
         stack = []
-        res =[-1] * len(numbers)
+        res = [-1] * len(numbers)
         stack.append(0)
-        for i in range(1,len(numbers)):
-            while len(stack)>0 and numbers[i] < numbers[stack[-1]]:
+        for i in range(1, len(numbers)):
+            while len(stack) > 0 and numbers[i] < numbers[stack[-1]]:
                 res[stack[-1]] = numbers[i]
                 stack.pop()
             stack.append(i)
         return res
 
+
 s = Solution()
-print(s.findFirstBig([3,2,4,1,6]))
-print(s.findFirstSmall([3,2,4,1,6]))
+print(s.findFirstBig([3, 2, 4, 1, 6]))
+print(s.findFirstSmall([3, 2, 4, 1, 6]))

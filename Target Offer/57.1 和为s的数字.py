@@ -6,8 +6,8 @@
 
 class Solution:
     def FindNumbersWithSum(self, array, tsum):
-        length = len(array )
+        length = len(array)
         for i in array:
-            if tsum-i in array:
-                return [i,tsum-i]
+            if tsum - i in array:
+                return [i, tsum - i]
         return []
