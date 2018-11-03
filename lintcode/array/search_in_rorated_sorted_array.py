@@ -1,6 +1,8 @@
 class Solution:
     @staticmethod
     def search_in_rorated_sorted_array(nums, target):
+        if len(nums) < 1:
+            return -1
         start = 0
         end = len(nums) - 1
         while start + 1 < end:

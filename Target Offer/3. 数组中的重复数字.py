@@ -55,6 +55,8 @@ class Solution:
                 numbers[temp] = temp
         return duplicate
 
+a = [1,2,3,4,5]
+a.slice(1,2,-1)
 
 s = Solution()
 print(s.duplicateNums([2, 3, 1, 0, 2, 5, 3]))

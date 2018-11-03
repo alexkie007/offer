@@ -4,12 +4,14 @@ class Solution:
             return nums
         result = []
         list = []
-        # nums.sort()
+        nums.sort()
         self.subsets_helper(result, list, nums, 0)
+        result.sort()
         return result
 
     def subsets_helper(self, result, list, nums, index):
-        result.append( "".join([x for x in list[:]]))
+        # result.append( "".join([x for x in list[:]]))
+        result.append( list[:])
         for i in range(index, len(nums)):
             if i != index and nums[i] == nums[i - 1]:
                 continue
@@ -20,4 +22,4 @@ class Solution:
 
 
 s = Solution()
-print(s.subsets("122"))
+print(s.subsets([4,1,0]))

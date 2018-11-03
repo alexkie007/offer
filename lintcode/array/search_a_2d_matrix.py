@@ -2,8 +2,10 @@ class Solution:
     @staticmethod
     def search_a_2_matrix(matrix, target):
         rows = len(matrix)
+        if rows == 0:
+            return False
         columns = len(matrix[0])
-        if rows == 0 or columns == 0:
+        if columns == 0:
             return False
         row = 0
         column = columns - 1

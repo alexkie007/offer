@@ -3,7 +3,6 @@ class Solution:
     def binary_search(nums, target):
         if len(nums) == 0:
             return -1
-        nums.sort()
         start = 0
         end = len(nums) - 1
         while start + 1 < end:

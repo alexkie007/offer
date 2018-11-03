@@ -1,6 +1,8 @@
 class Solution:
     @staticmethod
     def search_insert(nums, target):
+        if len(nums) == 0 :
+            return 0
         start = 0
         end = len(nums) - 1
         while start + 1 < end:
