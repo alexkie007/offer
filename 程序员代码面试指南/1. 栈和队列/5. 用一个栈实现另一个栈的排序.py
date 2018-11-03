@@ -10,9 +10,10 @@
     继续弹出原来栈的栈顶元素，重复上述操作即可
 '''
 
+
 class Solution:
     def sortByStack(self, stack):
-        if len(stack)<2:
+        if len(stack) < 2:
             return stack
         stack1 = []
         while stack:

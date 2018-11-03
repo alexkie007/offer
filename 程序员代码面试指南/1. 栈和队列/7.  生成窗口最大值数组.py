@@ -3,9 +3,10 @@
 窗口每次向右边滑一个位置
 '''
 
+
 class Solution:
     def getMaxWindow(self, arr, w):
-        if w > len(arr) or arr == None or w <1:
+        if w > len(arr) or arr == None or w < 1:
             return
 
         deque = []
@@ -14,8 +15,8 @@ class Solution:
             while deque and arr[deque[-1]] <= arr[i]:
                 deque.pop()
             deque.append(i)
-            if deque[0] <= i-w:
+            if deque[0] <= i - w:
                 deque.pop(0)
-            if i-w+1>=0:
+            if i - w + 1 >= 0:
                 res.append(arr[deque[0]])
         return res

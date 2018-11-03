@@ -23,6 +23,8 @@
 解题思路：
 先按照终点排序，然后遍历所有节点，如果节点的起点大于当前的终点，则需要添加一箭
 """
+
+
 class Solution:
     def findMinArrowShots(self, points):
         """
@@ -38,6 +40,7 @@ class Solution:
                 end = interval[1]
         return res
 
-a = [[10,16], [2,8], [1,6], [7,12]]
+
+a = [[10, 16], [2, 8], [1, 6], [7, 12]]
 s = Solution()
 print(s.findMinArrowShots(a))
