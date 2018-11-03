@@ -35,6 +35,8 @@ class Solution:
 
 
 
+
+
 s = Solution()
 # print(s.permutations("abc"))
 print(s.permutations1("abc"))

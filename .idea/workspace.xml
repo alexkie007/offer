@@ -2,180 +2,228 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5905e5ce-112f-4435-81c8-e60dd7892f55" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/airbnb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lintcode/dp/backpack_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lintcode/dp/backpack_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lintcode/dp/distance_subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lintcode/dp/edit_distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lintcode/dp/interleaving_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lintcode/dp/k_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lintcode/high/majority_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/jd1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/jd2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/others/yixin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/array/3_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/array/fizz_buzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/array/max_sliding_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/array/rorate_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/linkList/reverse_list_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/linkList/swap_nodes_in_pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lintcode/string/strstr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/ebay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/scan_dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/shopee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/shopee2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/shopee3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/tencent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/thoughtworks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/thoughtworks_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/weizhong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/weizhong2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/others/weizhong3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdl/text8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdl/text8.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdl/相似度分析.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdl/词性分析.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Offer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Offer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airbnb.py" beforeDir="false" afterPath="$PROJECT_DIR$/airbnb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lintcode/array/permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/lintcode/array/permutations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoughtswork/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/thoughtswork/post/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoughtswork/media/15327725206881/15327727086871.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/thoughtswork/post/media/15327725206881/15327727086871.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoughtswork/media/15327725206881/15327745827387.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/thoughtswork/post/media/15327725206881/15327745827387.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoughtswork/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/thoughtswork/post/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoughtswork/test1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/thoughtswork/post/test1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoughtswork/thoughtsWork.py" beforeDir="false" afterPath="$PROJECT_DIR$/thoughtswork/post/thoughtsWork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer/48. 逆序对.py" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer/48. 逆序对.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Offer$9__.coverage" NAME="9. 斐波那契额数列 Coverage Results" MODIFIED="1520652457249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$38____1_.coverage" NAME="38. 字符串的排列 (1) Coverage Results" MODIFIED="1521173407152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$blanced_binary_tree.coverage" NAME="blanced_binary_tree Coverage Results" MODIFIED="1534750723755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/tree" />
-    <SUITE FILE_PATH="coverage/offer$subsets.coverage" NAME="subsets Coverage Results" MODIFIED="1535518822235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
-    <SUITE FILE_PATH="coverage/Offer$215__K.coverage" NAME="215. 数组中的第K个最大元素 Coverage Results" MODIFIED="1522659753451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/堆" />
-    <SUITE FILE_PATH="coverage/Offer$150__.coverage" NAME="150. 逆波兰表达式求值 Coverage Results" MODIFIED="1522658526295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/栈" />
-    <SUITE FILE_PATH="coverage/Offer$199__.coverage" NAME="199. 二叉树的右视图 Coverage Results" MODIFIED="1523021601688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/树" />
-    <SUITE FILE_PATH="coverage/Offer$123__.coverage" NAME="123. 买卖股票的最佳时机 Coverage Results" MODIFIED="1523197847135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/动态规划" />
-    <SUITE FILE_PATH="coverage/Offer$460__LFU.coverage" NAME="460. LFU Coverage Results" MODIFIED="1523321633755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/设计" />
-    <SUITE FILE_PATH="coverage/Offer$64__1_2_3_____n.coverage" NAME="64. 求1+2+3+...+n Coverage Results" MODIFIED="1521511141701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$32__.coverage" NAME="32. 最长有效括号 Coverage Results" MODIFIED="1523240732805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/动态规划" />
-    <SUITE FILE_PATH="coverage/Offer$3__.coverage" NAME="3. 矩阵的最小路径和 Coverage Results" MODIFIED="1523257631746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划" />
-    <SUITE FILE_PATH="coverage/offer$15__1.coverage" NAME="15. 二进制中1的个数 Coverage Results" MODIFIED="1535943378074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$32_2__.coverage" NAME="32.2 从上到下打印二叉树-分行 Coverage Results" MODIFIED="1521127841275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$42__.coverage" NAME="42. 连续子数组之和 Coverage Results" MODIFIED="1522235165753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$95__.coverage" NAME="95. 不同的二叉查找树 Coverage Results" MODIFIED="1522900349155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/树" />
-    <SUITE FILE_PATH="coverage/Offer$52__.coverage" NAME="52. 两个链表的第一个公共节点 Coverage Results" MODIFIED="1520954854750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$18_2_.coverage" NAME="18.2 删除链表中重复节点 Coverage Results" MODIFIED="1522651768298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$min_swap.coverage" NAME="min_swap Coverage Results" MODIFIED="1535875013239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
-    <SUITE FILE_PATH="coverage/Offer$6__.coverage" NAME="6. 最长递增子序列 Coverage Results" MODIFIED="1523264055388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划" />
-    <SUITE FILE_PATH="coverage/Offer$146__LRU.coverage" NAME="146. LRU Coverage Results" MODIFIED="1523286097044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/设计" />
-    <SUITE FILE_PATH="coverage/offer$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1534746875556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/binary_search_tree" />
-    <SUITE FILE_PATH="coverage/Offer$62__.coverage" NAME="62. 圆圈中最后剩下的数字 Coverage Results" MODIFIED="1523586469460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$yuanfudao.coverage" NAME="yuanfudao Coverage Results" MODIFIED="1535284577447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
-    <SUITE FILE_PATH="coverage/offer$reverse_list.coverage" NAME="reverse_list Coverage Results" MODIFIED="1534835789696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/linkList" />
-    <SUITE FILE_PATH="coverage/offer$merge_sorted_array_2.coverage" NAME="merge_sorted_array_2 Coverage Results" MODIFIED="1534667739498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
-    <SUITE FILE_PATH="coverage/offer$zhaohang.coverage" NAME="zhaohang Coverage Results" MODIFIED="1535631681375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
-    <SUITE FILE_PATH="coverage/Offer$43__1n1.coverage" NAME="43. 从1到n整数中1出现的次数 Coverage Results" MODIFIED="1520690664350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$15__.coverage" NAME="15. 数值的整数次方 Coverage Results" MODIFIED="1520662235400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$60__n.coverage" NAME="60. n个骰子的点数 Coverage Results" MODIFIED="1521878136600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$longest_common_subsequence.coverage" NAME="longest_common_subsequence Coverage Results" MODIFIED="1535881096892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/dp" />
-    <SUITE FILE_PATH="coverage/offer$17__1nn.coverage" NAME="17. 打印从1到n最大的n位数 Coverage Results" MODIFIED="1535944105998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$9_1_.coverage" NAME="9.1 青蛙跳 Coverage Results" MODIFIED="1520652742952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$split.coverage" NAME="实现split算法 Coverage Results" MODIFIED="1523322342240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
-    <SUITE FILE_PATH="coverage/Offer$12___.coverage" NAME="12. 动态规划-剪绳子 Coverage Results" MODIFIED="1521533383105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$13___.coverage" NAME="13. 贪婪算法-剪绳子 Coverage Results" MODIFIED="1520660978783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$139__.coverage" NAME="139. 单词拆分 Coverage Results" MODIFIED="1523156473972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/动态规划" />
-    <SUITE FILE_PATH="coverage/offer$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1535513506597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
-    <SUITE FILE_PATH="coverage/Offer$45__.coverage" NAME="45. 把数组排成最小的数 Coverage Results" MODIFIED="1521535087782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
     <SUITE FILE_PATH="coverage/Offer$3_1_.coverage" NAME="3.1 数组中的重复数字 Coverage Results" MODIFIED="1520693347420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$35__.coverage" NAME="35. 二叉树后序遍历 Coverage Results" MODIFIED="1521163197613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$25__.coverage" NAME="25. 树的子结构 Coverage Results" MODIFIED="1523026158320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/offer$combination_sum_2.coverage" NAME="combination_sum_2 Coverage Results" MODIFIED="1535520693189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
-    <SUITE FILE_PATH="coverage/Offer$56__.coverage" NAME="56. 数组中只出现一次的数字 Coverage Results" MODIFIED="1521426089793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$10_1_.coverage" NAME="10.1 斐波那契数列 Coverage Results" MODIFIED="1523241532680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$remove_dumplicate_node_in_sorted_linklist.coverage" NAME="remove_dumplicate_node_in_sorted_linklist Coverage Results" MODIFIED="1534834637842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/linkList" />
-    <SUITE FILE_PATH="coverage/offer$median_of_two_sorted_array.coverage" NAME="median_of_two_sorted_array Coverage Results" MODIFIED="1534672565910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
-    <SUITE FILE_PATH="coverage/Offer$32_3__.coverage" NAME="32.3 从上到下打印二叉树-之字形 Coverage Results" MODIFIED="1521128430152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$order_tree.coverage" NAME="order_tree Coverage Results" MODIFIED="1534757151305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/tree" />
-    <SUITE FILE_PATH="coverage/Offer$46__.coverage" NAME="46. 把数字翻译成字符串 Coverage Results" MODIFIED="1521876652512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$search_insert.coverage" NAME="search_insert Coverage Results" MODIFIED="1533978304317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
-    <SUITE FILE_PATH="coverage/offer$search_for_a_range.coverage" NAME="search_for_a range Coverage Results" MODIFIED="1532877942913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
-    <SUITE FILE_PATH="coverage/Offer$n.coverage" NAME="n对括号 Coverage Results" MODIFIED="1523628993253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
-    <SUITE FILE_PATH="coverage/Offer$36__.coverage" NAME="36. 复杂链表的复制 Coverage Results" MODIFIED="1520683436243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/offer$max_depth.coverage" NAME="max_depth Coverage Results" MODIFIED="1534749894353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/tree" />
-    <SUITE FILE_PATH="coverage/Offer$26__.coverage" NAME="26. 二叉树的镜像 Coverage Results" MODIFIED="1521119520777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/offer$search_in_rorated_sorted_array.coverage" NAME="search_in_rorated_sorted_array Coverage Results" MODIFIED="1534672978864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
-    <SUITE FILE_PATH="coverage/Offer$440__k.coverage" NAME="440. 字典序中第k个数字 Coverage Results" MODIFIED="1523089395831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/数组" />
-    <SUITE FILE_PATH="coverage/offer$combination_sum.coverage" NAME="combination_sum Coverage Results" MODIFIED="1535520175583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
-    <SUITE FILE_PATH="coverage/Offer$16_1n.coverage" NAME="16.打印1到最大的n位数 Coverage Results" MODIFIED="1521534089626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/offer$21__.coverage" NAME="21. 调整数组顺序使奇数位于偶数前面 Coverage Results" MODIFIED="1535944741993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$rorated_array_with_mininum.coverage" NAME="rorated_array_with_mininum Coverage Results" MODIFIED="1534657693677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
-    <SUITE FILE_PATH="coverage/Offer$53_1_.coverage" NAME="53.1 数字在排序数组中出现的次数 Coverage Results" MODIFIED="1521385978349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$.coverage" NAME="股票买卖 Coverage Results" MODIFIED="1535947212978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
-    <SUITE FILE_PATH="coverage/Offer$111.coverage" NAME="111 Coverage Results" MODIFIED="1522474158509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Offer$38__.coverage" NAME="38. 字符串的排列 Coverage Results" MODIFIED="1521173233553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$18__.coverage" NAME="18. 删除链表重复的节点 Coverage Results" MODIFIED="1520664759741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$meitu.coverage" NAME="meitu Coverage Results" MODIFIED="1523532882867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
-    <SUITE FILE_PATH="coverage/Offer$7__.coverage" NAME="7. 最长公共子序列 Coverage Results" MODIFIED="1523269711719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划" />
-    <SUITE FILE_PATH="coverage/offer$largest_rectangle_in_histogram.coverage" NAME="largest_rectangle_in_histogram Coverage Results" MODIFIED="1535864439665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
-    <SUITE FILE_PATH="coverage/Offer$48__.coverage" NAME="48. 最长不含重复字符的子字符串 Coverage Results" MODIFIED="1522496710919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$62__.coverage" NAME="62. 圆圈中最后剩下的数字 Coverage Results" MODIFIED="1532755263951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$41__k.coverage" NAME="41. 最小的k个数 Coverage Results" MODIFIED="1521178877213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$28__.coverage" NAME="28. 对称的二叉树 Coverage Results" MODIFIED="1520672565326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$8__.coverage" NAME="8. 旋转数组的最小数字 Coverage Results" MODIFIED="1520651238271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$19__.coverage" NAME="19. 调整数组顺序使奇数在偶数前面 Coverage Results" MODIFIED="1520666136255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$14__1.coverage" NAME="14. 二进制中1的个数 Coverage Results" MODIFIED="1520661295883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$98__.coverage" NAME="98. 验证二叉搜索树 Coverage Results" MODIFIED="1522903265223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/树" />
-    <SUITE FILE_PATH="coverage/Offer$38_1_.coverage" NAME="38.1 字符串的排列 Coverage Results" MODIFIED="1523533360085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$51__.coverage" NAME="51. 数组中的逆序对 Coverage Results" MODIFIED="1535629499305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$39__.coverage" NAME="39. 数组中出现次数超过一半的数字 Coverage Results" MODIFIED="1523540168371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$max_sum_path.coverage" NAME="max_sum_path Coverage Results" MODIFIED="1534753108398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/tree" />
-    <SUITE FILE_PATH="coverage/Offer$49__.coverage" NAME="49. 丑数 Coverage Results" MODIFIED="1521193293112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$yixin.coverage" NAME="yixin Coverage Results" MODIFIED="1536399476806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
-    <SUITE FILE_PATH="coverage/Offer$15__1.coverage" NAME="15. 二进制中1的个数 Coverage Results" MODIFIED="1523523236432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$10_1_.coverage" NAME="10.1 斐波那契数列 Coverage Results" MODIFIED="1535942892615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$21__K.coverage" NAME="21. 链表中的倒数第K个节点 Coverage Results" MODIFIED="1520668117711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$29__.coverage" NAME="29. 顺时针打印矩阵 Coverage Results" MODIFIED="1521123681014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$68__.coverage" NAME="68. 最近公共祖先 Coverage Results" MODIFIED="1523587666696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$1111.coverage" NAME="1111 Coverage Results" MODIFIED="1523498395232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
-    <SUITE FILE_PATH="coverage/Offer$96__1.coverage" NAME="96. 不同的二叉查找树1 Coverage Results" MODIFIED="1522901453169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/树" />
-    <SUITE FILE_PATH="coverage/Offer$201__.coverage" NAME="201. 数字范围按位与 Coverage Results" MODIFIED="1522655893217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/位运算" />
-    <SUITE FILE_PATH="coverage/offer$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1534748125006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
-    <SUITE FILE_PATH="coverage/offer$k_means.coverage" NAME="k-means Coverage Results" MODIFIED="1535894051952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
-    <SUITE FILE_PATH="coverage/Offer$38_2_.coverage" NAME="38.2 字符串的组合 Coverage Results" MODIFIED="1521173670439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$longest_increasing_subsequence.coverage" NAME="longest_increasing_subsequence Coverage Results" MODIFIED="1535881699724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/dp" />
-    <SUITE FILE_PATH="coverage/Offer$257__.coverage" NAME="257. 二叉树的所有路径 Coverage Results" MODIFIED="1523023702892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/树" />
-    <SUITE FILE_PATH="coverage/offer$binary_search_tree.coverage" NAME="binary_search_tree Coverage Results" MODIFIED="1534756138986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/tree" />
-    <SUITE FILE_PATH="coverage/offer$9__.coverage" NAME="9. 斐波那契数列 Coverage Results" MODIFIED="1535942471828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$4__.coverage" NAME="4. 换钱的最小货币数 Coverage Results" MODIFIED="1523257600060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划" />
-    <SUITE FILE_PATH="coverage/Offer$50_2__.coverage" NAME="50.2. 字符流中第一次只出现一次的字符 Coverage Results" MODIFIED="1521513958255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$44__.coverage" NAME="44. 数字序列中某一位数字 Coverage Results" MODIFIED="1522834672778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$6_.coverage" NAME="6.重建二叉树 Coverage Results" MODIFIED="1520648623830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$121__.coverage" NAME="121. 买卖股票最佳时机 Coverage Results" MODIFIED="1523169342640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/动态规划" />
-    <SUITE FILE_PATH="coverage/offer$edit_distance.coverage" NAME="edit_distance Coverage Results" MODIFIED="1536219160894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/dp" />
-    <SUITE FILE_PATH="coverage/Offer$24__.coverage" NAME="24. 反转链表 Coverage Results" MODIFIED="1523408078664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$26_____.coverage" NAME="26. !!!树的子结构 Coverage Results" MODIFIED="1523525439383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$replace_blank.coverage" NAME="replace_blank Coverage Results" MODIFIED="1535942032826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/string" />
-    <SUITE FILE_PATH="coverage/Offer$34__.coverage" NAME="34. 之字形打印二叉树 Coverage Results" MODIFIED="1520746062215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$57_2_s.coverage" NAME="57.2 和为s的连续正数序列 Coverage Results" MODIFIED="1521430654222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$33.coverage" NAME="33 Coverage Results" MODIFIED="1522157577502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Offer$17__1nn.coverage" NAME="17. 打印从1到n最大的n位数 Coverage Results" MODIFIED="1521534864175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$3__.coverage" NAME="3. 数组中的重复数字 Coverage Results" MODIFIED="1535940127362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$452__.coverage" NAME="452. 用最少数量的箭引爆气球 Coverage Results" MODIFIED="1522652815463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/贪心算法" />
-    <SUITE FILE_PATH="coverage/Offer$5__.coverage" NAME="5. 最长回文子串 Coverage Results" MODIFIED="1522673621606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/字符串" />
-    <SUITE FILE_PATH="coverage/offer$level_order.coverage" NAME="level_order Coverage Results" MODIFIED="1534755603872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/tree" />
-    <SUITE FILE_PATH="coverage/offer$jd2.coverage" NAME="jd2 Coverage Results" MODIFIED="1536495741905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
-    <SUITE FILE_PATH="coverage/offer$jd.coverage" NAME="jd Coverage Results" MODIFIED="1536492848418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
-    <SUITE FILE_PATH="coverage/offer$palindrom_partitioning.coverage" NAME="palindrom_partitioning Coverage Results" MODIFIED="1535518020116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
-    <SUITE FILE_PATH="coverage/Offer$23__.coverage" NAME="23. 反转链表 Coverage Results" MODIFIED="1520670654128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$2__.coverage" NAME="2. 成熟母牛 Coverage Results" MODIFIED="1523243357000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划" />
-    <SUITE FILE_PATH="coverage/Offer$53__.coverage" NAME="53. 最大子序列之和 Coverage Results" MODIFIED="1523168922756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/动态规划" />
-    <SUITE FILE_PATH="coverage/Offer$7_2_.coverage" NAME="7.2 两个队列实现栈 Coverage Results" MODIFIED="1520649838231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$20__.coverage" NAME="20. 表示字符的字符串 Coverage Results" MODIFIED="1521444970530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$3_2_.coverage" NAME="3.2 不修改数组找出重复数字 Coverage Results" MODIFIED="1520645503020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$11___.coverage" NAME="11.  机器人的运动范围 Coverage Results" MODIFIED="1521531199367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/offer$duplicate_nums.coverage" NAME="duplicate_nums Coverage Results" MODIFIED="1535940770880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
-    <SUITE FILE_PATH="coverage/Offer$10__.coverage" NAME="10. 矩阵中的路径回溯法 Coverage Results" MODIFIED="1521527494363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$38____1_.coverage" NAME="38. 字符串的排列 (1) Coverage Results" MODIFIED="1521173407152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$48__.coverage" NAME="48. 逆序对 Coverage Results" MODIFIED="1537879365266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
     <SUITE FILE_PATH="coverage/Offer$17_.coverage" NAME="17.删除链表的节点 Coverage Results" MODIFIED="1520664750317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
     <SUITE FILE_PATH="coverage/offer$1__.coverage" NAME="1. 斐波那契数列 Coverage Results" MODIFIED="1535947260837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划" />
-    <SUITE FILE_PATH="coverage/offer$longest_common_substring.coverage" NAME="longest_common_substring Coverage Results" MODIFIED="1535881034623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/dp" />
-    <SUITE FILE_PATH="coverage/Offer$230__k.coverage" NAME="230. 二叉搜索树的第k小的元素 Coverage Results" MODIFIED="1523019170995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/树" />
-    <SUITE FILE_PATH="coverage/Offer$4_.coverage" NAME="4.替换字符串 Coverage Results" MODIFIED="1520647010575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/offer$search_a_2d_matrix_2.coverage" NAME="search_a_2d_matrix_2 Coverage Results" MODIFIED="1532880326851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
-    <SUITE FILE_PATH="coverage/offer$recover_rotated_array.coverage" NAME="recover_rotated_array Coverage Results" MODIFIED="1534675248269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
-    <SUITE FILE_PATH="coverage/Offer$21__.coverage" NAME="21. 调整数组顺序使奇数位于偶数前面 Coverage Results" MODIFIED="1523524018497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$61__.coverage" NAME="61. 扑克牌顺序 Coverage Results" MODIFIED="1521441386742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/Offer$51__.coverage" NAME="51. 数组中的逆序对 Coverage Results" MODIFIED="1521210252061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$airbnb.coverage" NAME="airbnb Coverage Results" MODIFIED="1536375634667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/offer$search_a_2d_matrix.coverage" NAME="search_a_2d_matrix Coverage Results" MODIFIED="1532879540274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
-    <SUITE FILE_PATH="coverage/offer$thoughtsWork.coverage" NAME="thoughtsWork Coverage Results" MODIFIED="1533377679726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
-    <SUITE FILE_PATH="coverage/offer$merge_sorted_array.coverage" NAME="merge_sorted_array Coverage Results" MODIFIED="1534667302524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
-    <SUITE FILE_PATH="coverage/Offer$.coverage" NAME="找到每个元素后面比它大的第一个数 Coverage Results" MODIFIED="1523611122477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
-    <SUITE FILE_PATH="coverage/Offer$50__.coverage" NAME="50. 第一次只出现一次的字符 Coverage Results" MODIFIED="1521208213318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1534749301502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
+    <SUITE FILE_PATH="coverage/offer$Nosetests_for_thoughtworks_main_TestProcess_test_abnormal_input_range_2.coverage" NAME="Nosetests for thoughtworks_main.TestProcess.test_abnormal_input_range_2 Coverage Results" MODIFIED="1537588186722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/offer$Nosetests_for_thoughtworks_thoughtworks_test_TestProcess_test_abnormal_input_range_2.coverage" NAME="Nosetests for thoughtworks.thoughtworks_test.TestProcess.test_abnormal_input_range_2 Coverage Results" MODIFIED="1537590385099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thoughtswork" />
+    <SUITE FILE_PATH="coverage/Offer$460__LFU.coverage" NAME="460. LFU Coverage Results" MODIFIED="1523321633755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/设计" />
+    <SUITE FILE_PATH="coverage/Offer$32_3__.coverage" NAME="32.3 从上到下打印二叉树-之字形 Coverage Results" MODIFIED="1521128430152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$Nosetests_for_thoughtworks_main_TestProcess_test_abnormal_input_range.coverage" NAME="Nosetests for thoughtworks_main.TestProcess.test_abnormal_input_range Coverage Results" MODIFIED="1537587458060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/offer$min_swap.coverage" NAME="min_swap Coverage Results" MODIFIED="1535875013239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/Offer$43__1n1.coverage" NAME="43. 从1到n整数中1出现的次数 Coverage Results" MODIFIED="1520690664350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/offer$airbnb.coverage" NAME="airbnb Coverage Results" MODIFIED="1537414292256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Offer$146__LRU.coverage" NAME="146. LRU Coverage Results" MODIFIED="1523286097044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/设计" />
     <SUITE FILE_PATH="coverage/Offer$KMP.coverage" NAME="KMP Coverage Results" MODIFIED="1523530567156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
-    <SUITE FILE_PATH="coverage/Offer$40__.coverage" NAME="40. 数组中出现次数超过一半的数字 Coverage Results" MODIFIED="1521174800123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$22__.coverage" NAME="22. 链表中的入口节点 Coverage Results" MODIFIED="1520669226048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
-    <SUITE FILE_PATH="coverage/Offer$1__.coverage" NAME="1. 斐波那契数列 Coverage Results" MODIFIED="1523243434456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划" />
+    <SUITE FILE_PATH="coverage/Offer$8__.coverage" NAME="8. 旋转数组的最小数字 Coverage Results" MODIFIED="1520651238271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$32__.coverage" NAME="32. 最长有效括号 Coverage Results" MODIFIED="1523240732805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/动态规划" />
     <SUITE FILE_PATH="coverage/Offer$12__.coverage" NAME="12. 路径总和 Coverage Results" MODIFIED="1523022037953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/树" />
-    <SUITE FILE_PATH="coverage/Offer$495__.coverage" NAME="495. 提莫攻击 Coverage Results" MODIFIED="1522654595791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/数组" />
-    <SUITE FILE_PATH="coverage/Offer$30__min.coverage" NAME="30. 包含min函数的栈 Coverage Results" MODIFIED="1521124801920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
-    <SUITE FILE_PATH="coverage/offer$media_of_unsort_array.coverage" NAME="media_of_unsort_array Coverage Results" MODIFIED="1534857443123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
+    <SUITE FILE_PATH="coverage/Offer$29__.coverage" NAME="29. 顺时针打印矩阵 Coverage Results" MODIFIED="1521123681014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/offer$search_a_2d_matrix.coverage" NAME="search_a_2d_matrix Coverage Results" MODIFIED="1532879540274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
+    <SUITE FILE_PATH="coverage/Offer$10_1_.coverage" NAME="10.1 斐波那契数列 Coverage Results" MODIFIED="1523241532680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$39__.coverage" NAME="39. 数组中出现次数超过一半的数字 Coverage Results" MODIFIED="1523540168371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$96__1.coverage" NAME="96. 不同的二叉查找树1 Coverage Results" MODIFIED="1522901453169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/树" />
+    <SUITE FILE_PATH="coverage/Offer$42__.coverage" NAME="42. 连续子数组之和 Coverage Results" MODIFIED="1522235165753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$53_1_.coverage" NAME="53.1 数字在排序数组中出现的次数 Coverage Results" MODIFIED="1521385978349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$search_in_rorated_sorted_array.coverage" NAME="search_in_rorated_sorted_array Coverage Results" MODIFIED="1537972131085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
+    <SUITE FILE_PATH="coverage/offer$longest_increasing_subsequence.coverage" NAME="longest_increasing_subsequence Coverage Results" MODIFIED="1535881699724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/dp" />
+    <SUITE FILE_PATH="coverage/Offer$52__.coverage" NAME="52. 两个链表的第一个公共节点 Coverage Results" MODIFIED="1520954854750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$48__.coverage" NAME="48. 最长不含重复字符的子字符串 Coverage Results" MODIFIED="1522496710919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$68__.coverage" NAME="68. 最近公共祖先 Coverage Results" MODIFIED="1523587666696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/offer$recover_rotated_array.coverage" NAME="recover_rotated_array Coverage Results" MODIFIED="1534675248269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
+    <SUITE FILE_PATH="coverage/Offer$19__.coverage" NAME="19. 调整数组顺序使奇数在偶数前面 Coverage Results" MODIFIED="1520666136255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/offer$yixin.coverage" NAME="yixin Coverage Results" MODIFIED="1536399476806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/Offer$15__1.coverage" NAME="15. 二进制中1的个数 Coverage Results" MODIFIED="1523523236432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$62__.coverage" NAME="62. 圆圈中最后剩下的数字 Coverage Results" MODIFIED="1523586469460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$9__.coverage" NAME="9. 斐波那契额数列 Coverage Results" MODIFIED="1520652457249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$2__.coverage" NAME="2. 成熟母牛 Coverage Results" MODIFIED="1523243357000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划" />
+    <SUITE FILE_PATH="coverage/offer$Nosetests_for_thoughtworks_thoughtworks_test_TestProcess.coverage" NAME="Nosetests for thoughtworks.thoughtworks_test.TestProcess Coverage Results" MODIFIED="1537590331809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thoughtswork" />
+    <SUITE FILE_PATH="coverage/Offer$14__1.coverage" NAME="14. 二进制中1的个数 Coverage Results" MODIFIED="1520661295883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/offer$merge_sorted_array_2.coverage" NAME="merge_sorted_array_2 Coverage Results" MODIFIED="1534667739498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
+    <SUITE FILE_PATH="coverage/offer$Nosetests_for_new_thoughtworks_test_TestProcess_test_abnormal_input_range_1.coverage" NAME="Nosetests for new.thoughtworks_test.TestProcess.test_abnormal_input_range_1 Coverage Results" MODIFIED="1537590238932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thoughtswork" />
+    <SUITE FILE_PATH="coverage/Offer$49__.coverage" NAME="49. 丑数 Coverage Results" MODIFIED="1521193293112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$Nosetests_in_thoughtworks_test_py.coverage" NAME="Nosetests in thoughtworks_test.py Coverage Results" MODIFIED="1537590395133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thoughtswork" />
+    <SUITE FILE_PATH="coverage/offer$62__.coverage" NAME="62. 圆圈中最后剩下的数字 Coverage Results" MODIFIED="1532755263951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$yuanfudao.coverage" NAME="yuanfudao Coverage Results" MODIFIED="1535284577447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/offer$rorate_string.coverage" NAME="rorate_string Coverage Results" MODIFIED="1537880641863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
+    <SUITE FILE_PATH="coverage/Offer$98__.coverage" NAME="98. 验证二叉搜索树 Coverage Results" MODIFIED="1522903265223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/树" />
+    <SUITE FILE_PATH="coverage/Offer$22__.coverage" NAME="22. 链表中的入口节点 Coverage Results" MODIFIED="1520669226048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/offer$combination_sum_2.coverage" NAME="combination_sum_2 Coverage Results" MODIFIED="1535520693189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
+    <SUITE FILE_PATH="coverage/Offer$40__.coverage" NAME="40. 数组中出现次数超过一半的数字 Coverage Results" MODIFIED="1521174800123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$3__.coverage" NAME="3. 矩阵的最小路径和 Coverage Results" MODIFIED="1523257631746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划" />
+    <SUITE FILE_PATH="coverage/Offer$41__k.coverage" NAME="41. 最小的k个数 Coverage Results" MODIFIED="1521178877213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/offer$Nosetests_for_thoughtworks_main_TestProcess.coverage" NAME="Nosetests for thoughtworks_main.TestProcess Coverage Results" MODIFIED="1537588147022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/Offer$50__.coverage" NAME="50. 第一次只出现一次的字符 Coverage Results" MODIFIED="1521208213318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$452__.coverage" NAME="452. 用最少数量的箭引爆气球 Coverage Results" MODIFIED="1522652815463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/贪心算法" />
+    <SUITE FILE_PATH="coverage/Offer$n.coverage" NAME="n对括号 Coverage Results" MODIFIED="1523628993253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
+    <SUITE FILE_PATH="coverage/offer$weizhong2.coverage" NAME="weizhong2 Coverage Results" MODIFIED="1537263979756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/Offer$6__.coverage" NAME="6. 最长递增子序列 Coverage Results" MODIFIED="1523264055388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划" />
+    <SUITE FILE_PATH="coverage/offer$15__1.coverage" NAME="15. 二进制中1的个数 Coverage Results" MODIFIED="1535943378074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$60__n.coverage" NAME="60. n个骰子的点数 Coverage Results" MODIFIED="1521878136600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$139__.coverage" NAME="139. 单词拆分 Coverage Results" MODIFIED="1523156473972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/动态规划" />
+    <SUITE FILE_PATH="coverage/offer$reverse_list.coverage" NAME="reverse_list Coverage Results" MODIFIED="1534835789696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/linkList" />
+    <SUITE FILE_PATH="coverage/Offer$199__.coverage" NAME="199. 二叉树的右视图 Coverage Results" MODIFIED="1523021601688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/树" />
+    <SUITE FILE_PATH="coverage/offer$rorated_array_with_mininum.coverage" NAME="rorated_array_with_mininum Coverage Results" MODIFIED="1534657693677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
+    <SUITE FILE_PATH="coverage/offer$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1534749301502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
+    <SUITE FILE_PATH="coverage/offer$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1534746875556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/binary_search_tree" />
+    <SUITE FILE_PATH="coverage/Offer$50_2__.coverage" NAME="50.2. 字符流中第一次只出现一次的字符 Coverage Results" MODIFIED="1521513958255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$search_for_a_range.coverage" NAME="search_for_a range Coverage Results" MODIFIED="1532877942913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
+    <SUITE FILE_PATH="coverage/Offer$10__.coverage" NAME="10. 矩阵中的路径回溯法 Coverage Results" MODIFIED="1521527494363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/offer$Nosetests_for_homework_thoughtworks_test_TestProcess_test_normal_case1.coverage" NAME="Nosetests for homework.thoughtworks_test.TestProcess.test_normal_case1 Coverage Results" MODIFIED="1537590593377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thoughtswork" />
+    <SUITE FILE_PATH="coverage/Offer$7_2_.coverage" NAME="7.2 两个队列实现栈 Coverage Results" MODIFIED="1520649838231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$20__.coverage" NAME="20. 表示字符的字符串 Coverage Results" MODIFIED="1521444970530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$zhaohang.coverage" NAME="zhaohang Coverage Results" MODIFIED="1535631681375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/offer$3__.coverage" NAME="3. 数组中的重复数字 Coverage Results" MODIFIED="1535940127362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$440__k.coverage" NAME="440. 字典序中第k个数字 Coverage Results" MODIFIED="1523089395831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/数组" />
+    <SUITE FILE_PATH="coverage/offer$max_sum_path.coverage" NAME="max_sum_path Coverage Results" MODIFIED="1534753108398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/tree" />
+    <SUITE FILE_PATH="coverage/Offer$5__.coverage" NAME="5. 最长回文子串 Coverage Results" MODIFIED="1522673621606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/字符串" />
+    <SUITE FILE_PATH="coverage/offer$Nosetests_for_thoughtworks_main_TestProcess_test_normal.coverage" NAME="Nosetests for thoughtworks_main.TestProcess.test_normal Coverage Results" MODIFIED="1537582963699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/Offer$3_2_.coverage" NAME="3.2 不修改数组找出重复数字 Coverage Results" MODIFIED="1520645503020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$16_1n.coverage" NAME="16.打印1到最大的n位数 Coverage Results" MODIFIED="1521534089626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/offer$edit_distance.coverage" NAME="edit_distance Coverage Results" MODIFIED="1536219160894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/dp" />
+    <SUITE FILE_PATH="coverage/offer$largest_rectangle_in_histogram.coverage" NAME="largest_rectangle_in_histogram Coverage Results" MODIFIED="1535864439665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
+    <SUITE FILE_PATH="coverage/offer$thoughtswork.coverage" NAME="thoughtswork Coverage Results" MODIFIED="1537588052051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/Offer$201__.coverage" NAME="201. 数字范围按位与 Coverage Results" MODIFIED="1522655893217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/位运算" />
+    <SUITE FILE_PATH="coverage/offer$.coverage" NAME="相似度分析 Coverage Results" MODIFIED="1538048979557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pdl" />
+    <SUITE FILE_PATH="coverage/offer$binary_search_tree.coverage" NAME="binary_search_tree Coverage Results" MODIFIED="1534756138986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/tree" />
+    <SUITE FILE_PATH="coverage/offer$permutations.coverage" NAME="permutations Coverage Results" MODIFIED="1537875825084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
+    <SUITE FILE_PATH="coverage/offer$Nosetests_for_thoughtworks_TestProcessTest_test_normal_case1.coverage" NAME="Nosetests for thoughtworks.TestProcessTest.test_normal_case1 Coverage Results" MODIFIED="1537590837628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thoughtswork/homework" />
+    <SUITE FILE_PATH="coverage/Offer$13___.coverage" NAME="13. 贪婪算法-剪绳子 Coverage Results" MODIFIED="1520660978783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/offer$search_insert.coverage" NAME="search_insert Coverage Results" MODIFIED="1533978304317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
+    <SUITE FILE_PATH="coverage/offer$10_1_.coverage" NAME="10.1 斐波那契数列 Coverage Results" MODIFIED="1535942892615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$21__.coverage" NAME="21. 调整数组顺序使奇数位于偶数前面 Coverage Results" MODIFIED="1523524018497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$shopee.coverage" NAME="shopee Coverage Results" MODIFIED="1536745605095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/Offer$111.coverage" NAME="111 Coverage Results" MODIFIED="1522474158509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/offer$duplicate_nums.coverage" NAME="duplicate_nums Coverage Results" MODIFIED="1535940770880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
+    <SUITE FILE_PATH="coverage/Offer$7__.coverage" NAME="7. 最长公共子序列 Coverage Results" MODIFIED="1523269711719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划" />
+    <SUITE FILE_PATH="coverage/Offer$21__K.coverage" NAME="21. 链表中的倒数第K个节点 Coverage Results" MODIFIED="1520668117711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$4__.coverage" NAME="4. 换钱的最小货币数 Coverage Results" MODIFIED="1523257600060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划" />
+    <SUITE FILE_PATH="coverage/Offer$44__.coverage" NAME="44. 数字序列中某一位数字 Coverage Results" MODIFIED="1522834672778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$9__.coverage" NAME="9. 斐波那契数列 Coverage Results" MODIFIED="1535942471828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$24__.coverage" NAME="24. 反转链表 Coverage Results" MODIFIED="1523408078664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$34__.coverage" NAME="34. 之字形打印二叉树 Coverage Results" MODIFIED="1520746062215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$17__1nn.coverage" NAME="17. 打印从1到n最大的n位数 Coverage Results" MODIFIED="1521534864175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$1111.coverage" NAME="1111 Coverage Results" MODIFIED="1523498395232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
+    <SUITE FILE_PATH="coverage/Offer$32_2__.coverage" NAME="32.2 从上到下打印二叉树-分行 Coverage Results" MODIFIED="1521127841275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$strstr.coverage" NAME="strstr Coverage Results" MODIFIED="1537409788613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/string" />
+    <SUITE FILE_PATH="coverage/offer$shopee2.coverage" NAME="shopee2 Coverage Results" MODIFIED="1536746305180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/Offer$57_2_s.coverage" NAME="57.2 和为s的连续正数序列 Coverage Results" MODIFIED="1521430654222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$1__.coverage" NAME="1. 斐波那契数列 Coverage Results" MODIFIED="1523243434456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划" />
+    <SUITE FILE_PATH="coverage/Offer$38_1_.coverage" NAME="38.1 字符串的排列 Coverage Results" MODIFIED="1523533360085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$longest_common_substring.coverage" NAME="longest_common_substring Coverage Results" MODIFIED="1535881034623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/dp" />
+    <SUITE FILE_PATH="coverage/Offer$64__1_2_3_____n.coverage" NAME="64. 求1+2+3+...+n Coverage Results" MODIFIED="1521511141701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$tencent.coverage" NAME="tencent Coverage Results" MODIFIED="1537070315954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/Offer$230__k.coverage" NAME="230. 二叉搜索树的第k小的元素 Coverage Results" MODIFIED="1523019170995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/树" />
+    <SUITE FILE_PATH="coverage/offer$thoughtworks.coverage" NAME="thoughtworks Coverage Results" MODIFIED="1537591263629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thoughtswork/homework" />
     <SUITE FILE_PATH="coverage/Offer$31__.coverage" NAME="31. 栈的压入、弹出序列 Coverage Results" MODIFIED="1520675646913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$meitu.coverage" NAME="meitu Coverage Results" MODIFIED="1523532882867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
+    <SUITE FILE_PATH="coverage/Offer$4_.coverage" NAME="4.替换字符串 Coverage Results" MODIFIED="1520647010575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$51__.coverage" NAME="51. 数组中的逆序对 Coverage Results" MODIFIED="1521210252061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$Nosetests_for_thoughtworks_main_TestProcess_test_abnormal_input.coverage" NAME="Nosetests for thoughtworks_main.TestProcess.test_abnormal_input Coverage Results" MODIFIED="1537587322224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/offer$media_of_unsort_array.coverage" NAME="media_of_unsort_array Coverage Results" MODIFIED="1534857443123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
+    <SUITE FILE_PATH="coverage/offer$merge_sorted_array.coverage" NAME="merge_sorted_array Coverage Results" MODIFIED="1534667302524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
+    <SUITE FILE_PATH="coverage/Offer$61__.coverage" NAME="61. 扑克牌顺序 Coverage Results" MODIFIED="1521441386742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$33.coverage" NAME="33 Coverage Results" MODIFIED="1522157577502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/offer$remove_dumplicate_node_in_sorted_linklist.coverage" NAME="remove_dumplicate_node_in_sorted_linklist Coverage Results" MODIFIED="1534834637842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/linkList" />
+    <SUITE FILE_PATH="coverage/offer$k_means.coverage" NAME="k-means Coverage Results" MODIFIED="1535894051952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/offer$51__.coverage" NAME="51. 数组中的逆序对 Coverage Results" MODIFIED="1535629499305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$split.coverage" NAME="实现split算法 Coverage Results" MODIFIED="1523322342240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
+    <SUITE FILE_PATH="coverage/offer$shopee3.coverage" NAME="shopee3 Coverage Results" MODIFIED="1536750007412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/Offer$23__.coverage" NAME="23. 反转链表 Coverage Results" MODIFIED="1520670654128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$56__.coverage" NAME="56. 数组中只出现一次的数字 Coverage Results" MODIFIED="1521426089793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$median_of_two_sorted_array.coverage" NAME="median_of_two_sorted_array Coverage Results" MODIFIED="1537425524362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
+    <SUITE FILE_PATH="coverage/offer$search_a_2d_matrix_2.coverage" NAME="search_a_2d_matrix_2 Coverage Results" MODIFIED="1532880326851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode" />
+    <SUITE FILE_PATH="coverage/offer$palindrom_partitioning.coverage" NAME="palindrom_partitioning Coverage Results" MODIFIED="1535518020116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
+    <SUITE FILE_PATH="coverage/Offer$30__min.coverage" NAME="30. 包含min函数的栈 Coverage Results" MODIFIED="1521124801920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$28__.coverage" NAME="28. 对称的二叉树 Coverage Results" MODIFIED="1520672565326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$123__.coverage" NAME="123. 买卖股票的最佳时机 Coverage Results" MODIFIED="1523197847135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/动态规划" />
+    <SUITE FILE_PATH="coverage/offer$max_depth.coverage" NAME="max_depth Coverage Results" MODIFIED="1534749894353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/tree" />
+    <SUITE FILE_PATH="coverage/Offer$38__.coverage" NAME="38. 字符串的排列 Coverage Results" MODIFIED="1521173233553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/offer$Nosetests_in_thoughtworks_py.coverage" NAME="Nosetests in thoughtworks.py Coverage Results" MODIFIED="1537590821864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/thoughtswork/homework" />
+    <SUITE FILE_PATH="coverage/offer$order_tree.coverage" NAME="order_tree Coverage Results" MODIFIED="1534757151305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/tree" />
+    <SUITE FILE_PATH="coverage/Offer$26_____.coverage" NAME="26. !!!树的子结构 Coverage Results" MODIFIED="1523525439383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$53__.coverage" NAME="53. 最大子序列之和 Coverage Results" MODIFIED="1523168922756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/动态规划" />
+    <SUITE FILE_PATH="coverage/Offer$215__K.coverage" NAME="215. 数组中的第K个最大元素 Coverage Results" MODIFIED="1522659753451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/堆" />
+    <SUITE FILE_PATH="coverage/offer$21__.coverage" NAME="21. 调整数组顺序使奇数位于偶数前面 Coverage Results" MODIFIED="1535944741993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$495__.coverage" NAME="495. 提莫攻击 Coverage Results" MODIFIED="1522654595791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/数组" />
+    <SUITE FILE_PATH="coverage/offer$level_order.coverage" NAME="level_order Coverage Results" MODIFIED="1534755603872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/tree" />
+    <SUITE FILE_PATH="coverage/Offer$18__.coverage" NAME="18. 删除链表重复的节点 Coverage Results" MODIFIED="1520664759741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/offer$blanced_binary_tree.coverage" NAME="blanced_binary_tree Coverage Results" MODIFIED="1534750723755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/tree" />
+    <SUITE FILE_PATH="coverage/Offer$150__.coverage" NAME="150. 逆波兰表达式求值 Coverage Results" MODIFIED="1522658526295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/栈" />
+    <SUITE FILE_PATH="coverage/offer$jd2.coverage" NAME="jd2 Coverage Results" MODIFIED="1536495741905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/Offer$45__.coverage" NAME="45. 把数组排成最小的数 Coverage Results" MODIFIED="1521535087782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$35__.coverage" NAME="35. 二叉树后序遍历 Coverage Results" MODIFIED="1521163197613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$257__.coverage" NAME="257. 二叉树的所有路径 Coverage Results" MODIFIED="1523023702892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/树" />
+    <SUITE FILE_PATH="coverage/Offer$.coverage" NAME="找到每个元素后面比它大的第一个数 Coverage Results" MODIFIED="1523611122477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/杂项" />
+    <SUITE FILE_PATH="coverage/offer$Nosetests_for_thoughtworks_main_TestProcess_test_normal_case2.coverage" NAME="Nosetests for thoughtworks_main.TestProcess.test_normal_case2 Coverage Results" MODIFIED="1537587612261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/Offer$95__.coverage" NAME="95. 不同的二叉查找树 Coverage Results" MODIFIED="1522900349155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/树" />
+    <SUITE FILE_PATH="coverage/Offer$15__.coverage" NAME="15. 数值的整数次方 Coverage Results" MODIFIED="1520662235400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$25__.coverage" NAME="25. 树的子结构 Coverage Results" MODIFIED="1523026158320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/offer$replace_blank.coverage" NAME="replace_blank Coverage Results" MODIFIED="1535942032826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/string" />
+    <SUITE FILE_PATH="coverage/offer$jd.coverage" NAME="jd Coverage Results" MODIFIED="1536492848418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/Offer$46__.coverage" NAME="46. 把数字翻译成字符串 Coverage Results" MODIFIED="1521876652512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$thoughtsWork.coverage" NAME="thoughtsWork Coverage Results" MODIFIED="1533377679726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/offer$17__1nn.coverage" NAME="17. 打印从1到n最大的n位数 Coverage Results" MODIFIED="1535944105998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$combination_sum.coverage" NAME="combination_sum Coverage Results" MODIFIED="1535520175583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
+    <SUITE FILE_PATH="coverage/Offer$36__.coverage" NAME="36. 复杂链表的复制 Coverage Results" MODIFIED="1520683436243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$121__.coverage" NAME="121. 买卖股票最佳时机 Coverage Results" MODIFIED="1523169342640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/动态规划" />
+    <SUITE FILE_PATH="coverage/Offer$38_2_.coverage" NAME="38.2 字符串的组合 Coverage Results" MODIFIED="1521173670439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/Offer$12___.coverage" NAME="12. 动态规划-剪绳子 Coverage Results" MODIFIED="1521533383105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/offer$quick_sort.coverage" NAME="quick_sort Coverage Results" MODIFIED="1534748125006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
+    <SUITE FILE_PATH="coverage/Offer$6_.coverage" NAME="6.重建二叉树 Coverage Results" MODIFIED="1520648623830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$11___.coverage" NAME="11.  机器人的运动范围 Coverage Results" MODIFIED="1521531199367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/offer$subsets.coverage" NAME="subsets Coverage Results" MODIFIED="1537411459314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/array" />
+    <SUITE FILE_PATH="coverage/offer$weizhong3.coverage" NAME="weizhong3 Coverage Results" MODIFIED="1537261723868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/offer$longest_common_subsequence.coverage" NAME="longest_common_subsequence Coverage Results" MODIFIED="1535881096892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lintcode/dp" />
+    <SUITE FILE_PATH="coverage/Offer$9_1_.coverage" NAME="9.1 青蛙跳 Coverage Results" MODIFIED="1520652742952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$26__.coverage" NAME="26. 二叉树的镜像 Coverage Results" MODIFIED="1521119520777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指Offer" />
+    <SUITE FILE_PATH="coverage/Offer$18_2_.coverage" NAME="18.2 删除链表中重复节点 Coverage Results" MODIFIED="1522651768298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Target Offer" />
+    <SUITE FILE_PATH="coverage/offer$ebay.coverage" NAME="ebay Coverage Results" MODIFIED="1537877490725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -192,135 +240,114 @@
     <session id="-394106874">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="2" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="15" />
+          <entry key="Python" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="3907" />
+          <entry key="py" value="11119" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="3907" />
+          <entry key="Python" value="11119" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="15" />
+          <entry key="py" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lintcode/dp/backpack_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <marker date="1536220566203" expanded="true" signature="44:49" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lintcode/dp/backpack_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding>
-                <marker date="1536220895940" expanded="true" signature="57:62" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lintcode/dp/k_sum.py">
+      <file leaf-file-name="词性分析.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pdl/词性分析.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="相似度分析.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pdl/相似度分析.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
               <folding>
-                <marker date="1536221501199" expanded="true" signature="270:275" ph="..." />
+                <element signature="e#0#34#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lintcode/high/majority_num.py">
+      <file leaf-file-name="24. 反转链表.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Target Offer/24. 反转链表.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="495">
+              <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/airbnb.py">
+      <file leaf-file-name="swap_nodes_in_pairs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lintcode/linkList/swap_nodes_in_pairs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+            <state relative-caret-position="255">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/others/yixin.py">
+      <file leaf-file-name="reverse_list_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lintcode/linkList/reverse_list_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="20" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/others/jd1.py">
+      <file leaf-file-name="max_sliding_window.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lintcode/array/max_sliding_window.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="55" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="55" />
-              <folding>
-                <marker date="1536492869710" expanded="true" signature="15:20" ph="..." />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/others/jd2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-              <folding>
-                <marker date="1536495900665" expanded="true" signature="15:20" ph="..." />
-              </folding>
-            </state>
-          </provider>
+      <file leaf-file-name="3_sum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lintcode/array/3_sum.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Target Offer/16. 数值的整数次方.py">
+      <file leaf-file-name="reverse_list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lintcode/linkList/reverse_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="21" />
+            <state>
+              <caret selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -352,11 +379,15 @@
       <find>list</find>
       <find>逆序</find>
       <find>中位</find>
+      <find>bb</find>
+      <find>format_text</find>
     </findStrings>
     <replaceStrings>
       <replace>uglyNumbers</replace>
       <replace>connect_roads</replace>
       <replace>path</replace>
+      <replace>p2</replace>
+      <replace>text</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -369,35 +400,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lintcode/array/media_of_unsort_array.py" />
-        <option value="$PROJECT_DIR$/others/yuanfudao.py" />
-        <option value="$PROJECT_DIR$/lintcode/dp/trangle.py" />
-        <option value="$PROJECT_DIR$/lintcode/array/permutations.py" />
-        <option value="$PROJECT_DIR$/lintcode/array/palindrom_partitioning.py" />
-        <option value="$PROJECT_DIR$/lintcode/array/subsets.py" />
-        <option value="$PROJECT_DIR$/lintcode/array/combination_sum.py" />
-        <option value="$PROJECT_DIR$/lintcode/array/combination_sum_2.py" />
-        <option value="$PROJECT_DIR$/lintcode/array/word_latter.py" />
-        <option value="$PROJECT_DIR$/others/找到每个元素后面比它大的第一个数.py" />
-        <option value="$PROJECT_DIR$/others/min_swap.py" />
-        <option value="$PROJECT_DIR$/Target Offer/51. 数组中的逆序对.py" />
-        <option value="$PROJECT_DIR$/others/zhaohang.py" />
-        <option value="$PROJECT_DIR$/lintcode/array/largest_rectangle_in_histogram.py" />
-        <option value="$PROJECT_DIR$/lintcode/linkList/max_tree.py" />
-        <option value="$PROJECT_DIR$/lintcode/design.py" />
-        <option value="$PROJECT_DIR$/lintcode/design/lru.py" />
-        <option value="$PROJECT_DIR$/Target Offer/41. 数据流中的中位数.py" />
-        <option value="$PROJECT_DIR$/lintcode/dp/longest_common_subsequence.py" />
-        <option value="$PROJECT_DIR$/lintcode/dp/longest_increasing_subsequence.py" />
-        <option value="$PROJECT_DIR$/others/k-means.py" />
-        <option value="$PROJECT_DIR$/Target Offer/3. 数组中的重复数字.py" />
-        <option value="$PROJECT_DIR$/lintcode/array/duplicate_nums.py" />
-        <option value="$PROJECT_DIR$/Target Offer/4. 二维数组中的查找.py" />
-        <option value="$PROJECT_DIR$/lintcode/string/replace_blank.py" />
-        <option value="$PROJECT_DIR$/lintcode/linkList/print_list_from_tail.py" />
-        <option value="$PROJECT_DIR$/Target Offer/7. 重建二叉树.py" />
-        <option value="$PROJECT_DIR$/剑指Offer/9. 斐波那契数列.py" />
-        <option value="$PROJECT_DIR$/Target Offer/10.1 斐波那契数列.py" />
         <option value="$PROJECT_DIR$/Target Offer/12. 矩阵中的路径.py" />
         <option value="$PROJECT_DIR$/Target Offer/25. 合并两个排序的列表.py" />
         <option value="$PROJECT_DIR$/Target Offer/26. !!!树的子结构.py" />
@@ -416,10 +418,39 @@
         <option value="$PROJECT_DIR$/lintcode/dp/backpack_2.py" />
         <option value="$PROJECT_DIR$/lintcode/dp/k_sum.py" />
         <option value="$PROJECT_DIR$/lintcode/high/majority_num.py" />
-        <option value="$PROJECT_DIR$/airbnb.py" />
         <option value="$PROJECT_DIR$/others/yixin.py" />
         <option value="$PROJECT_DIR$/others/jd.py" />
         <option value="$PROJECT_DIR$/others/jd2.py" />
+        <option value="$PROJECT_DIR$/others/shopee.py" />
+        <option value="$PROJECT_DIR$/others/shopee2.py" />
+        <option value="$PROJECT_DIR$/others/shopee3.py" />
+        <option value="$PROJECT_DIR$/others/tencent.py" />
+        <option value="$PROJECT_DIR$/others/weizhong.py" />
+        <option value="$PROJECT_DIR$/others/weizhong3.py" />
+        <option value="$PROJECT_DIR$/others/weizhong2.py" />
+        <option value="$PROJECT_DIR$/lintcode/string/strstr.py" />
+        <option value="$PROJECT_DIR$/airbnb.py" />
+        <option value="$PROJECT_DIR$/lintcode/array/median_of_two_sorted_array.py" />
+        <option value="$PROJECT_DIR$/others/thoughtswork.py" />
+        <option value="$PROJECT_DIR$/others/thoughtworks_main.py" />
+        <option value="$PROJECT_DIR$/others/thoughtworks.py" />
+        <option value="$PROJECT_DIR$/thoughtswork/new/thoughtworks.py" />
+        <option value="$PROJECT_DIR$/thoughtswork/new/thoughtworks_test.py" />
+        <option value="$PROJECT_DIR$/thoughtswork/thoughtworks/thoughtworks_test.py" />
+        <option value="$PROJECT_DIR$/thoughtswork/homework/thoughtworks_test.py" />
+        <option value="$PROJECT_DIR$/thoughtswork/homework/thoughtworks.py" />
+        <option value="$PROJECT_DIR$/lintcode/array/permutations.py" />
+        <option value="$PROJECT_DIR$/others/ebay.py" />
+        <option value="$PROJECT_DIR$/剑指Offer/48. 逆序对.py" />
+        <option value="$PROJECT_DIR$/lintcode/array/rorate_string.py" />
+        <option value="$PROJECT_DIR$/lintcode/array/fizz_buzz.py" />
+        <option value="$PROJECT_DIR$/others/scan_dir.py" />
+        <option value="$PROJECT_DIR$/pdl/词性分析.py" />
+        <option value="$PROJECT_DIR$/pdl/相似度分析.py" />
+        <option value="$PROJECT_DIR$/lintcode/linkList/swap_nodes_in_pairs.py" />
+        <option value="$PROJECT_DIR$/lintcode/linkList/reverse_list_2.py" />
+        <option value="$PROJECT_DIR$/lintcode/array/max_sliding_window.py" />
+        <option value="$PROJECT_DIR$/lintcode/array/3_sum.py" />
       </list>
     </option>
   </component>
@@ -429,9 +460,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="width" value="1600" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -451,22 +485,24 @@
             <path>
               <item name="offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="others" type="462c0819:PsiDirectoryNode" />
+              <item name="lintcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="lintcode" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="lintcode" type="462c0819:PsiDirectoryNode" />
+              <item name="linkList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="offer" type="b2602c69:ProjectViewProjectNode" />
               <item name="offer" type="462c0819:PsiDirectoryNode" />
               <item name="Target Offer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="thoughtswork" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="offer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="offer" type="462c0819:PsiDirectoryNode" />
-              <item name="程序员代码面试指南" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -476,25 +512,26 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="subtree&#9;null&#9;null&#10;hasPath&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/yujie/Workspaces/Python/offer/thoughtswork/homework/thoughtworks_test.py&#10;subtree&#9;null&#9;null&#10;hasPath&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pdl" />
+      <recent name="$PROJECT_DIR$/thoughtswork/new" />
       <recent name="$PROJECT_DIR$/others" />
       <recent name="$PROJECT_DIR$/lintcode/dp" />
       <recent name="$PROJECT_DIR$/lintcode" />
-      <recent name="$PROJECT_DIR$/thoughtswork" />
-      <recent name="$PROJECT_DIR$/杂项" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/thoughtswork/thoughtworks" />
+      <recent name="$PROJECT_DIR$/thoughtswork/post" />
       <recent name="$PROJECT_DIR$/lintcode/array" />
       <recent name="$PROJECT_DIR$/lintcode/binary_search_array" />
       <recent name="$PROJECT_DIR$/thoughtswork" />
-      <recent name="$PROJECT_DIR$/程序员代码面试指南" />
-      <recent name="$PROJECT_DIR$/程序员代码面试指南/4. 动态规划" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -509,8 +546,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.jd2">
-    <configuration name="找到每个元素后面比它大的第一个数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.48. 逆序对">
+    <configuration name="词性分析" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -518,21 +555,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/杂项" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pdl" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/杂项/找到每个元素后面比它大的第一个数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pdl/词性分析.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <configuration name="airbnb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="48. 逆序对" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -540,21 +574,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指Offer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/airbnb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指Offer/48. 逆序对.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <configuration name="edit_distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="相似度分析" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -562,21 +593,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lintcode/dp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pdl" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lintcode/dp/edit_distance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pdl/相似度分析.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <configuration name="jd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="rorate_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -584,21 +612,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lintcode/array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/jd1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lintcode/array/rorate_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <configuration name="jd2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="search_in_rorated_sorted_array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -606,57 +631,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lintcode/array" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/jd2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lintcode/array/search_in_rorated_sorted_array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="yixin" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Offer" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/yixin.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.找到每个元素后面比它大的第一个数" />
-      <item itemvalue="Python.edit_distance" />
-      <item itemvalue="Python.airbnb" />
-      <item itemvalue="Python.yixin" />
-      <item itemvalue="Python.jd" />
-      <item itemvalue="Python.jd2" />
+      <item itemvalue="Python.48. 逆序对" />
+      <item itemvalue="Python.rorate_string" />
+      <item itemvalue="Python.search_in_rorated_sorted_array" />
+      <item itemvalue="Python.词性分析" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.jd2" />
-        <item itemvalue="Python.jd" />
-        <item itemvalue="Python.yixin" />
-        <item itemvalue="Python.airbnb" />
-        <item itemvalue="Python.edit_distance" />
+        <item itemvalue="Python.词性分析" />
+        <item itemvalue="Python.search_in_rorated_sorted_array" />
+        <item itemvalue="Python.rorate_string" />
+        <item itemvalue="Python.48. 逆序对" />
       </list>
     </recent_temporary>
   </component>
@@ -673,6 +670,38 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_for_thoughtworks_main_TestProcess - 2018.09.22 at 11h 49m 07s.xml">
+      <configuration name="Nosetests for thoughtworks_main.TestProcess" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_thoughtworks_main_TestProcess_test_abnormal_input_range_2 - 2018.09.22 at 11h 49m 47s.xml">
+      <configuration name="Nosetests for thoughtworks_main.TestProcess.test_abnormal_input_range_2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_new_thoughtworks_test_TestProcess_test_abnormal_input_range_1 - 2018.09.22 at 12h 23m 59s.xml">
+      <configuration name="Nosetests for new.thoughtworks_test.TestProcess.test_abnormal_input_range_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_thoughtworks_test_py - 2018.09.22 at 12h 24m 44s.xml">
+      <configuration name="Nosetests in thoughtworks_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_thoughtworks_thoughtworks_test_TestProcess - 2018.09.22 at 12h 25m 32s.xml">
+      <configuration name="Nosetests for thoughtworks.thoughtworks_test.TestProcess" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_thoughtworks_thoughtworks_test_TestProcess_test_abnormal_input_range_2 - 2018.09.22 at 12h 26m 25s.xml">
+      <configuration name="Nosetests for thoughtworks.thoughtworks_test.TestProcess.test_abnormal_input_range_2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_thoughtworks_test_py - 2018.09.22 at 12h 26m 35s.xml">
+      <configuration name="Nosetests in thoughtworks_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_homework_thoughtworks_test_TestProcess_test_normal_case1 - 2018.09.22 at 12h 29m 53s.xml">
+      <configuration name="Nosetests for homework.thoughtworks_test.TestProcess.test_normal_case1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_thoughtworks_py - 2018.09.22 at 12h 33m 42s.xml">
+      <configuration name="Nosetests in thoughtworks.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_thoughtworks_TestProcessTest_test_normal_case1 - 2018.09.22 at 12h 33m 58s.xml">
+      <configuration name="Nosetests for thoughtworks.TestProcessTest.test_normal_case1" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -683,53 +712,53 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1600" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32875606" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49574015" weight="0.39041096" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40958905" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4948652" weight="0.32969698" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50513476" side_tool="true" weight="0.32992327" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49574015" weight="0.2628205" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49037227" weight="0.36727273" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.27260274" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49037227" weight="0.36666667" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.2717949" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2740693" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32960597" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33589745" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Data View" order="4" weight="0.32960597" />
-      <window_info anchor="right" id="Database" order="5" weight="0.32960597" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22528884" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49574015" weight="0.342711" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40664962" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4948652" weight="0.32992327" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50513476" side_tool="true" weight="0.32992327" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.49037227" weight="0.3746803" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26086956" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" id="Data View" order="4" />
+      <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4948652" weight="0.32992327" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49574015" weight="0.342711" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Data View" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26086956" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40664962" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50513476" side_tool="true" weight="0.32992327" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.49037227" weight="0.3746803" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -967,14 +996,9 @@
           <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/thoughtswork/thoughtsWork.py</url>
+          <url>file://$PROJECT_DIR$/thoughtswork/post/thoughtsWork.py</url>
           <line>131</line>
           <option name="timeStamp" value="146" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lintcode/array/median_of_two_sorted_array.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="151" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/lintcode/array/search_in_rorated_sorted_array.py</url>
@@ -1034,6 +1058,51 @@
           <url>file://$PROJECT_DIR$/lintcode/dp/edit_distance.py</url>
           <option name="timeStamp" value="169" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/shopee.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/tencent.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/tencent.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/tencent.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/weizhong2.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/weizhong2.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/airbnb.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/ebay.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lintcode/array/rorate_string.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1042,228 +1111,14 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Target Offer/30. 包含min函数的栈.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/31. 栈的压入、弹出序列.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/34. 二叉树中和为某一值的路径.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/35. !!!复杂链表的复制.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/36. 二叉搜索树和双向链表.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/38.1 字符串的排列.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/39. 数组中出现次数超过一半的数字.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/40. 最小的K个数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/41. 数据流中的中位数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/42. 连续子数组之和.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/43. !!!1-n整数中1出现的次数.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/44. 数字序列中某一位数字.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/45. 把数组排成最小的数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/46. 把数字翻译成字符串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/48. 最长不含重复字符的子字符串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/47. 礼物的最大价值.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/51. 数组中的逆序对.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/52. 两个链表的第一个公共节点.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-318" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/53.1 数字在排序数组中出现的次数.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/53.2 0~n-1中缺失的数字.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/53.3 数值中数值和下标相等的元素.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/54. 二叉搜索树的第k大节点.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/55.2  平衡二叉树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/56.1 数组中只出现一次的数字.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-130">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/56.2 数组中唯一只出现一次的数组.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/57.1 和为s的数字.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/57.2 和为s的连续正数序列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/58.1 翻转单词顺序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/58.2 左旋转字符串.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/59.1 滑动窗口的最大值.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/60. n个骰子的点数.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/62. 圆圈中最后剩下的数字.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode/dp/interleaving_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode/dp/longest_common_substring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode/dp/longest_common_subsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/others/实现split算法.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/others/随机概率生成数字.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode/dp/distance_subsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="1" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/程序员代码面试指南/4. 动态规划/1. 斐波那契数列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/others/股票买卖.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Target Offer/63. 股票最大利润.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lintcode/dp/edit_distance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lintcode/dp/backpack_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <marker date="1536220566203" expanded="true" signature="44:49" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1271,9 +1126,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <marker date="1536220895940" expanded="true" signature="57:62" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1281,9 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding>
-            <marker date="1536221501199" expanded="true" signature="270:275" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1291,13 +1140,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/airbnb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1310,11 +1152,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/others/jd1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="324">
           <caret line="23" column="55" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="55" />
-          <folding>
-            <marker date="1536492869710" expanded="true" signature="15:20" ph="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/jd2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/shopee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/shopee2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/shopee3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1325,15 +1192,261 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/others/jd2.py">
+    <entry file="file://$USER_HOME$/Workspace/jiuzhang/LintCode/manage.py" />
+    <entry file="file://$PROJECT_DIR$/others/tencent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        <state relative-caret-position="560">
+          <caret line="82" selection-start-line="82" selection-end-line="84" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/weizhong3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/weizhong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/weizhong2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="36" selection-start-line="36" selection-end-line="52" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/tree/max_sum_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/string/strstr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/array/subsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="14" selection-start-line="20" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/airbnb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/array/median_of_two_sorted_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thoughtswork/post/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="7">
+            <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thoughtswork/post/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/thoughtworks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thoughtswork/post/thoughtsWork.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/thoughtworks_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="58" column="58" lean-forward="true" selection-start-line="58" selection-start-column="58" selection-end-line="58" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/array/media_of_unsort_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thoughtswork/homework/thoughtworks_test.py" />
+    <entry file="file://$PROJECT_DIR$/thoughtswork/homework/thoughtworks.py" />
+    <entry file="file://$PROJECT_DIR$/lintcode/array/search_insert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/array/largest_rectangle_in_histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/design/lru.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/array/search_in_rorated_sorted_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/scan_dir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/array/fizz_buzz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/array/rorate_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/48. 逆序对.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/ebay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="20" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/array/permutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/41. 最小的k个数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer/47. 丑数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdl/text8">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="90">
+          <caret column="908" lean-forward="true" selection-start-column="908" selection-end-column="908" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdl/text8.model.trainables.syn1neg.npy">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="375">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdl/词性分析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdl/相似度分析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
-            <marker date="1536495900665" expanded="true" signature="15:20" ph="..." />
+            <element signature="e#0#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target Offer/24. 反转链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="10" lean-forward="true" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/linkList/swap_nodes_in_pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/linkList/reverse_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/linkList/reverse_list_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/array/max_sliding_window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lintcode/array/3_sum.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
